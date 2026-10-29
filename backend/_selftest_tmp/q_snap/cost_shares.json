@@ -1,0 +1,494 @@
+[
+ {
+  "id": 9600012,
+  "enterprise_id": 16807,
+  "code": "FT20261028012",
+  "share_date": "2026-10-28",
+  "money": "6800.00",
+  "type": 1,
+  "type_name": "按产量分摊",
+  "category": 1,
+  "category_path_names": "人工成本",
+  "status": 2,
+  "status_name": "待审",
+  "audit_remark": "",
+  "remark": "10月末计件工资预提",
+  "create_user_id": 228936,
+  "create_user": {
+   "id": 228936,
+   "real_name": "测试"
+  },
+  "item_list": [
+   {
+    "produce_bill_id": 5405516,
+    "money": "5000.00",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5425705,
+    "money": "1000.00",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5435500,
+    "money": "750.00",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5438818,
+    "money": "50.00",
+    "remark": ""
+   }
+  ],
+  "_seed": 1,
+  "created_at": "2026-10-28 09:43:00",
+  "updated_at": "2026-10-28 09:43:00",
+  "del": 2
+ },
+ {
+  "id": 9600011,
+  "enterprise_id": 16807,
+  "code": "FT20261026011",
+  "share_date": "2026-10-26",
+  "money": "990.00",
+  "type": 1,
+  "type_name": "按产量分摊",
+  "category": 3,
+  "category_path_names": "能耗费用",
+  "status": 3,
+  "status_name": "通过",
+  "audit_remark": "金额小，直接通过",
+  "remark": "辅料损耗分摊",
+  "create_user_id": 216100,
+  "create_user": {
+   "id": 216100,
+   "real_name": "13480234710"
+  },
+  "item_list": [
+   {
+    "produce_bill_id": 5334147,
+    "money": "31.94",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5409714,
+    "money": "319.35",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5425709,
+    "money": "638.71",
+    "remark": ""
+   }
+  ],
+  "_seed": 1,
+  "created_at": "2026-10-26 09:40:00",
+  "updated_at": "2026-10-26 09:40:00",
+  "del": 2
+ },
+ {
+  "id": 9600010,
+  "enterprise_id": 16807,
+  "code": "FT20261024010",
+  "share_date": "2026-10-24",
+  "money": "7200.00",
+  "type": 1,
+  "type_name": "按产量分摊",
+  "category": 2,
+  "category_path_names": "制造费用",
+  "status": 2,
+  "status_name": "待审",
+  "audit_remark": "",
+  "remark": "模具摊销",
+  "create_user_id": 157707,
+  "create_user": {
+   "id": 157707,
+   "real_name": "库管"
+  },
+  "item_list": [
+   {
+    "produce_bill_id": 5327605,
+    "money": "71.29",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5346501,
+    "money": "7128.71",
+    "remark": ""
+   }
+  ],
+  "_seed": 1,
+  "created_at": "2026-10-24 09:37:00",
+  "updated_at": "2026-10-24 09:37:00",
+  "del": 2
+ },
+ {
+  "id": 9600009,
+  "enterprise_id": 16807,
+  "code": "FT20261022009",
+  "share_date": "2026-10-22",
+  "money": "4120.30",
+  "type": 2,
+  "type_name": "按工时分摊",
+  "category": 3,
+  "category_path_names": "能耗费用",
+  "status": 2,
+  "status_name": "待审",
+  "audit_remark": "",
+  "remark": "烤房能耗分摊",
+  "create_user_id": 63097,
+  "create_user": {
+   "id": 63097,
+   "real_name": "小王"
+  },
+  "item_list": [
+   {
+    "produce_bill_id": 5269364,
+    "money": "1791.43",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5328700,
+    "money": "179.14",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5383824,
+    "money": "1791.43",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5415894,
+    "money": "358.30",
+    "remark": ""
+   }
+  ],
+  "_seed": 1,
+  "created_at": "2026-10-22 09:34:00",
+  "updated_at": "2026-10-22 09:34:00",
+  "del": 2
+ },
+ {
+  "id": 9600008,
+  "enterprise_id": 16807,
+  "code": "FT20261020008",
+  "share_date": "2026-10-20",
+  "money": "15300.00",
+  "type": 1,
+  "type_name": "按产量分摊",
+  "category": 1,
+  "category_path_names": "人工成本",
+  "status": 3,
+  "status_name": "通过",
+  "audit_remark": "",
+  "remark": "10月下旬计件工资",
+  "create_user_id": 228936,
+  "create_user": {
+   "id": 228936,
+   "real_name": "测试"
+  },
+  "item_list": [
+   {
+    "produce_bill_id": 5202504,
+    "money": "15.27",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5277967,
+    "money": "15269.46",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5334148,
+    "money": "15.27",
+    "remark": ""
+   }
+  ],
+  "_seed": 1,
+  "created_at": "2026-10-20 09:31:00",
+  "updated_at": "2026-10-20 09:31:00",
+  "del": 2
+ },
+ {
+  "id": 9600007,
+  "enterprise_id": 16807,
+  "code": "FT20261018007",
+  "share_date": "2026-10-18",
+  "money": "1980.00",
+  "type": 1,
+  "type_name": "按产量分摊",
+  "category": 3,
+  "category_path_names": "能耗费用",
+  "status": 2,
+  "status_name": "待审",
+  "audit_remark": "",
+  "remark": "空压机电费分摊",
+  "create_user_id": 216100,
+  "create_user": {
+   "id": 216100,
+   "real_name": "13480234710"
+  },
+  "item_list": [
+   {
+    "produce_bill_id": 5169622,
+    "money": "1650.00",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5241475,
+    "money": "330.00",
+    "remark": ""
+   }
+  ],
+  "_seed": 1,
+  "created_at": "2026-10-18 09:28:00",
+  "updated_at": "2026-10-18 09:28:00",
+  "del": 2
+ },
+ {
+  "id": 9600006,
+  "enterprise_id": 16807,
+  "code": "FT20261015006",
+  "share_date": "2026-10-15",
+  "money": "5400.00",
+  "type": 2,
+  "type_name": "按工时分摊",
+  "category": 2,
+  "category_path_names": "制造费用",
+  "status": 2,
+  "status_name": "待审",
+  "audit_remark": "",
+  "remark": "10月中旬车间制费",
+  "create_user_id": 157707,
+  "create_user": {
+   "id": 157707,
+   "real_name": "库管"
+  },
+  "item_list": [
+   {
+    "produce_bill_id": 5145650,
+    "money": "255.80",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5182141,
+    "money": "2.56",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5259168,
+    "money": "5116.06",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5328689,
+    "money": "25.58",
+    "remark": ""
+   }
+  ],
+  "_seed": 1,
+  "created_at": "2026-10-15 09:25:00",
+  "updated_at": "2026-10-15 09:25:00",
+  "del": 2
+ },
+ {
+  "id": 9600005,
+  "enterprise_id": 16807,
+  "code": "FT20261012005",
+  "share_date": "2026-10-12",
+  "money": "2260.75",
+  "type": 1,
+  "type_name": "按产量分摊",
+  "category": 2,
+  "category_path_names": "制造费用",
+  "status": 4,
+  "status_name": "退回",
+  "audit_remark": "发票未到，退回补录",
+  "remark": "外协加工制费",
+  "create_user_id": 63097,
+  "create_user": {
+   "id": 63097,
+   "real_name": "小王"
+  },
+  "item_list": [
+   {
+    "produce_bill_id": 5119888,
+    "money": "8.97",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5162137,
+    "money": "2242.81",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5189828,
+    "money": "8.97",
+    "remark": ""
+   }
+  ],
+  "_seed": 1,
+  "created_at": "2026-10-12 09:22:00",
+  "updated_at": "2026-10-12 09:22:00",
+  "del": 2
+ },
+ {
+  "id": 9600004,
+  "enterprise_id": 16807,
+  "code": "FT20261010004",
+  "share_date": "2026-10-10",
+  "money": "8600.00",
+  "type": 1,
+  "type_name": "按产量分摊",
+  "category": 1,
+  "category_path_names": "人工成本",
+  "status": 3,
+  "status_name": "通过",
+  "audit_remark": "",
+  "remark": "10月上旬计件工资",
+  "create_user_id": 228936,
+  "create_user": {
+   "id": 228936,
+   "real_name": "测试"
+  },
+  "item_list": [
+   {
+    "produce_bill_id": 5068008,
+    "money": "4300.00",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5129573,
+    "money": "4300.00",
+    "remark": ""
+   }
+  ],
+  "_seed": 1,
+  "created_at": "2026-10-10 09:19:00",
+  "updated_at": "2026-10-10 09:19:00",
+  "del": 2
+ },
+ {
+  "id": 9600003,
+  "enterprise_id": 16807,
+  "code": "FT20261008003",
+  "share_date": "2026-10-08",
+  "money": "3150.00",
+  "type": 2,
+  "type_name": "按工时分摊",
+  "category": 3,
+  "category_path_names": "能耗费用",
+  "status": 3,
+  "status_name": "通过",
+  "audit_remark": "电费单已附",
+  "remark": "国庆期间能耗分摊",
+  "create_user_id": 216100,
+  "create_user": {
+   "id": 216100,
+   "real_name": "13480234710"
+  },
+  "item_list": [
+   {
+    "produce_bill_id": 5047342,
+    "money": "217.24",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5074057,
+    "money": "2896.55",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5137304,
+    "money": "28.97",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5169621,
+    "money": "7.24",
+    "remark": ""
+   }
+  ],
+  "_seed": 1,
+  "created_at": "2026-10-08 09:16:00",
+  "updated_at": "2026-10-08 09:16:00",
+  "del": 2
+ },
+ {
+  "id": 9600002,
+  "enterprise_id": 16807,
+  "code": "FT20260930002",
+  "share_date": "2026-09-30",
+  "money": "6400.50",
+  "type": 1,
+  "type_name": "按产量分摊",
+  "category": 2,
+  "category_path_names": "制造费用",
+  "status": 3,
+  "status_name": "通过",
+  "audit_remark": "",
+  "remark": "9月设备折旧与制费",
+  "create_user_id": 157707,
+  "create_user": {
+   "id": 157707,
+   "real_name": "库管"
+  },
+  "item_list": [
+   {
+    "produce_bill_id": 5047348,
+    "money": "5020.00",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5047340,
+    "money": "1255.00",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5112185,
+    "money": "125.50",
+    "remark": ""
+   }
+  ],
+  "_seed": 1,
+  "created_at": "2026-09-30 09:13:00",
+  "updated_at": "2026-09-30 09:13:00",
+  "del": 2
+ },
+ {
+  "id": 9600001,
+  "enterprise_id": 16807,
+  "code": "FT20260930001",
+  "share_date": "2026-09-30",
+  "money": "12800.00",
+  "type": 1,
+  "type_name": "按产量分摊",
+  "category": 1,
+  "category_path_names": "人工成本",
+  "status": 3,
+  "status_name": "通过",
+  "audit_remark": "9月人工已核对",
+  "remark": "9月计件工资分摊",
+  "create_user_id": 63097,
+  "create_user": {
+   "id": 63097,
+   "real_name": "小王"
+  },
+  "item_list": [
+   {
+    "produce_bill_id": 5047354,
+    "money": "6400.00",
+    "remark": ""
+   },
+   {
+    "produce_bill_id": 5047346,
+    "money": "6400.00",
+    "remark": ""
+   }
+  ],
+  "_seed": 1,
+  "created_at": "2026-09-30 09:10:00",
+  "updated_at": "2026-09-30 09:10:00",
+  "del": 2
+ }
+]

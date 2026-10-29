@@ -1,0 +1,23 @@
+[
+ {
+  "sale_module": 1,
+  "seat_name": "生产席位",
+  "seat_limit": 30,
+  "use_seat_count": 17,
+  "remain_seat_count": 13
+ },
+ {
+  "sale_module": 2,
+  "seat_name": "售后席位",
+  "seat_limit": 30,
+  "use_seat_count": 4,
+  "remain_seat_count": 26
+ },
+ {
+  "sale_module": 3,
+  "seat_name": "维保席位",
+  "seat_limit": 30,
+  "use_seat_count": 6,
+  "remain_seat_count": 24
+ }
+]

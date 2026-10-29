@@ -1,0 +1,1817 @@
+[
+ {
+  "id": 1830,
+  "title": "紧急",
+  "content": "<p>！！！</p>",
+  "create_user_id": 184685,
+  "created_at": "2026-03-04 17:18:34",
+  "updated_at": "2026-03-04 17:18:34",
+  "del": 2,
+  "reason": null,
+  "enterprise_id": 16807,
+  "type": 1,
+  "fieldValueList": [],
+  "has_read": 1,
+  "has_read_count": 3,
+  "not_read_count": 9,
+  "has_read_user_list": [
+   {
+    "id": 83176,
+    "user_id": 144814,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 144814,
+     "name": "13810266941",
+     "real_name": "13810266941",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83181,
+    "user_id": 177648,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 177648,
+     "name": "张总",
+     "real_name": "张总",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83186,
+    "user_id": 184685,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 184685,
+     "name": "17308629240",
+     "real_name": "小陈",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   }
+  ],
+  "not_read_user_list": [
+   {
+    "id": 83175,
+    "user_id": 63097,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 63097,
+     "name": "小王",
+     "real_name": "小王",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83177,
+    "user_id": 157707,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 157707,
+     "name": "库管",
+     "real_name": "库管",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83178,
+    "user_id": 174263,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 174263,
+     "name": "刘丽",
+     "real_name": "刘丽",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83179,
+    "user_id": 174720,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 174720,
+     "name": "19709777122",
+     "real_name": "19709777122",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83180,
+    "user_id": 175922,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 175922,
+     "name": "15820200752",
+     "real_name": "15820200752",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83182,
+    "user_id": 178705,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 178705,
+     "name": "包装高总",
+     "real_name": "包装高总",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83183,
+    "user_id": 180864,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 180864,
+     "name": "宁波粤海汽车零部件有限公司",
+     "real_name": "贺总",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83184,
+    "user_id": 182761,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 182761,
+     "name": "13643180612",
+     "real_name": "13643180612",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83185,
+    "user_id": 183754,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 183754,
+     "name": "17396605496",
+     "real_name": "17396605496",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   }
+  ],
+  "profile": "！！！",
+  "create_user": {
+   "id": 184685,
+   "enterprise_id": 16807,
+   "name": "17308629240",
+   "real_name": "小陈",
+   "avatar": null,
+   "openid": null,
+   "is_enable": 1,
+   "del": 1,
+   "induction_date": null,
+   "agent_department_id": null,
+   "suite_user_id": null,
+   "type": 1,
+   "unionid": null,
+   "ding_talk_userid": null,
+   "agent_id": 5,
+   "has_password": false,
+   "type_name": "普通用户",
+   "claw_fun_type_name": "",
+   "qr_code_url": "https://single.kgd.ltd/#/u?qr_id=184685"
+  },
+  "attachments": [],
+  "notice_user": [
+   {
+    "id": 83175,
+    "user_id": 63097,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 63097,
+     "name": "小王",
+     "real_name": "小王",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83176,
+    "user_id": 144814,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 144814,
+     "name": "13810266941",
+     "real_name": "13810266941",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83177,
+    "user_id": 157707,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 157707,
+     "name": "库管",
+     "real_name": "库管",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83178,
+    "user_id": 174263,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 174263,
+     "name": "刘丽",
+     "real_name": "刘丽",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83179,
+    "user_id": 174720,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 174720,
+     "name": "19709777122",
+     "real_name": "19709777122",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83180,
+    "user_id": 175922,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 175922,
+     "name": "15820200752",
+     "real_name": "15820200752",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83181,
+    "user_id": 177648,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 177648,
+     "name": "张总",
+     "real_name": "张总",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83182,
+    "user_id": 178705,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 178705,
+     "name": "包装高总",
+     "real_name": "包装高总",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83183,
+    "user_id": 180864,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 180864,
+     "name": "宁波粤海汽车零部件有限公司",
+     "real_name": "贺总",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83184,
+    "user_id": 182761,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 182761,
+     "name": "13643180612",
+     "real_name": "13643180612",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83185,
+    "user_id": 183754,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 183754,
+     "name": "17396605496",
+     "real_name": "17396605496",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83186,
+    "user_id": 184685,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 184685,
+     "name": "17308629240",
+     "real_name": "小陈",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   }
+  ]
+ },
+ {
+  "id": 1831,
+  "title": "停机维护通知",
+  "content": "<p>本周六 00:00-06:00 系统停机维护，请提前安排生产。</p>",
+  "create_user_id": 184685,
+  "created_at": "2026-10-05 09:00:00",
+  "updated_at": "2026-10-05 09:00:00",
+  "del": 2,
+  "reason": null,
+  "enterprise_id": 16807,
+  "type": 1,
+  "fieldValueList": [],
+  "has_read": 1,
+  "has_read_count": 3,
+  "not_read_count": 9,
+  "has_read_user_list": [
+   {
+    "id": 83176,
+    "user_id": 144814,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 144814,
+     "name": "13810266941",
+     "real_name": "13810266941",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83181,
+    "user_id": 177648,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 177648,
+     "name": "张总",
+     "real_name": "张总",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83186,
+    "user_id": 184685,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 184685,
+     "name": "17308629240",
+     "real_name": "小陈",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   }
+  ],
+  "not_read_user_list": [
+   {
+    "id": 83175,
+    "user_id": 63097,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 63097,
+     "name": "小王",
+     "real_name": "小王",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83177,
+    "user_id": 157707,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 157707,
+     "name": "库管",
+     "real_name": "库管",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83178,
+    "user_id": 174263,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 174263,
+     "name": "刘丽",
+     "real_name": "刘丽",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83179,
+    "user_id": 174720,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 174720,
+     "name": "19709777122",
+     "real_name": "19709777122",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83180,
+    "user_id": 175922,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 175922,
+     "name": "15820200752",
+     "real_name": "15820200752",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83182,
+    "user_id": 178705,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 178705,
+     "name": "包装高总",
+     "real_name": "包装高总",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83183,
+    "user_id": 180864,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 180864,
+     "name": "宁波粤海汽车零部件有限公司",
+     "real_name": "贺总",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83184,
+    "user_id": 182761,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 182761,
+     "name": "13643180612",
+     "real_name": "13643180612",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83185,
+    "user_id": 183754,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 183754,
+     "name": "17396605496",
+     "real_name": "17396605496",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   }
+  ],
+  "profile": "！！！",
+  "create_user": {
+   "id": 184685,
+   "enterprise_id": 16807,
+   "name": "17308629240",
+   "real_name": "小陈",
+   "avatar": null,
+   "openid": null,
+   "is_enable": 1,
+   "del": 1,
+   "induction_date": null,
+   "agent_department_id": null,
+   "suite_user_id": null,
+   "type": 1,
+   "unionid": null,
+   "ding_talk_userid": null,
+   "agent_id": 5,
+   "has_password": false,
+   "type_name": "普通用户",
+   "claw_fun_type_name": "",
+   "qr_code_url": "https://single.kgd.ltd/#/u?qr_id=184685"
+  },
+  "attachments": [],
+  "notice_user": [
+   {
+    "id": 83175,
+    "user_id": 63097,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 63097,
+     "name": "小王",
+     "real_name": "小王",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83176,
+    "user_id": 144814,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 144814,
+     "name": "13810266941",
+     "real_name": "13810266941",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83177,
+    "user_id": 157707,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 157707,
+     "name": "库管",
+     "real_name": "库管",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83178,
+    "user_id": 174263,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 174263,
+     "name": "刘丽",
+     "real_name": "刘丽",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83179,
+    "user_id": 174720,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 174720,
+     "name": "19709777122",
+     "real_name": "19709777122",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83180,
+    "user_id": 175922,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 175922,
+     "name": "15820200752",
+     "real_name": "15820200752",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83181,
+    "user_id": 177648,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 177648,
+     "name": "张总",
+     "real_name": "张总",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83182,
+    "user_id": 178705,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 178705,
+     "name": "包装高总",
+     "real_name": "包装高总",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83183,
+    "user_id": 180864,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 180864,
+     "name": "宁波粤海汽车零部件有限公司",
+     "real_name": "贺总",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83184,
+    "user_id": 182761,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 182761,
+     "name": "13643180612",
+     "real_name": "13643180612",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83185,
+    "user_id": 183754,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 183754,
+     "name": "17396605496",
+     "real_name": "17396605496",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83186,
+    "user_id": 184685,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 184685,
+     "name": "17308629240",
+     "real_name": "小陈",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   }
+  ],
+  "_seed": 1
+ },
+ {
+  "id": 1832,
+  "title": "生产安全培训",
+  "content": "<p>本周五 15:00 车间安全培训，请各工序组长组织参加。</p>",
+  "create_user_id": 184685,
+  "created_at": "2026-10-12 09:00:00",
+  "updated_at": "2026-10-12 09:00:00",
+  "del": 2,
+  "reason": null,
+  "enterprise_id": 16807,
+  "type": 1,
+  "fieldValueList": [],
+  "has_read": 1,
+  "has_read_count": 3,
+  "not_read_count": 9,
+  "has_read_user_list": [
+   {
+    "id": 83176,
+    "user_id": 144814,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 144814,
+     "name": "13810266941",
+     "real_name": "13810266941",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83181,
+    "user_id": 177648,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 177648,
+     "name": "张总",
+     "real_name": "张总",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83186,
+    "user_id": 184685,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 184685,
+     "name": "17308629240",
+     "real_name": "小陈",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   }
+  ],
+  "not_read_user_list": [
+   {
+    "id": 83175,
+    "user_id": 63097,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 63097,
+     "name": "小王",
+     "real_name": "小王",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83177,
+    "user_id": 157707,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 157707,
+     "name": "库管",
+     "real_name": "库管",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83178,
+    "user_id": 174263,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 174263,
+     "name": "刘丽",
+     "real_name": "刘丽",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83179,
+    "user_id": 174720,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 174720,
+     "name": "19709777122",
+     "real_name": "19709777122",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83180,
+    "user_id": 175922,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 175922,
+     "name": "15820200752",
+     "real_name": "15820200752",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83182,
+    "user_id": 178705,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 178705,
+     "name": "包装高总",
+     "real_name": "包装高总",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83183,
+    "user_id": 180864,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 180864,
+     "name": "宁波粤海汽车零部件有限公司",
+     "real_name": "贺总",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83184,
+    "user_id": 182761,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 182761,
+     "name": "13643180612",
+     "real_name": "13643180612",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83185,
+    "user_id": 183754,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 183754,
+     "name": "17396605496",
+     "real_name": "17396605496",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   }
+  ],
+  "profile": "！！！",
+  "create_user": {
+   "id": 184685,
+   "enterprise_id": 16807,
+   "name": "17308629240",
+   "real_name": "小陈",
+   "avatar": null,
+   "openid": null,
+   "is_enable": 1,
+   "del": 1,
+   "induction_date": null,
+   "agent_department_id": null,
+   "suite_user_id": null,
+   "type": 1,
+   "unionid": null,
+   "ding_talk_userid": null,
+   "agent_id": 5,
+   "has_password": false,
+   "type_name": "普通用户",
+   "claw_fun_type_name": "",
+   "qr_code_url": "https://single.kgd.ltd/#/u?qr_id=184685"
+  },
+  "attachments": [],
+  "notice_user": [
+   {
+    "id": 83175,
+    "user_id": 63097,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 63097,
+     "name": "小王",
+     "real_name": "小王",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83176,
+    "user_id": 144814,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 144814,
+     "name": "13810266941",
+     "real_name": "13810266941",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83177,
+    "user_id": 157707,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 157707,
+     "name": "库管",
+     "real_name": "库管",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83178,
+    "user_id": 174263,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 174263,
+     "name": "刘丽",
+     "real_name": "刘丽",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83179,
+    "user_id": 174720,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 174720,
+     "name": "19709777122",
+     "real_name": "19709777122",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83180,
+    "user_id": 175922,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 175922,
+     "name": "15820200752",
+     "real_name": "15820200752",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83181,
+    "user_id": 177648,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 177648,
+     "name": "张总",
+     "real_name": "张总",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83182,
+    "user_id": 178705,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 178705,
+     "name": "包装高总",
+     "real_name": "包装高总",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83183,
+    "user_id": 180864,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 180864,
+     "name": "宁波粤海汽车零部件有限公司",
+     "real_name": "贺总",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83184,
+    "user_id": 182761,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 182761,
+     "name": "13643180612",
+     "real_name": "13643180612",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83185,
+    "user_id": 183754,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 183754,
+     "name": "17396605496",
+     "real_name": "17396605496",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83186,
+    "user_id": 184685,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 184685,
+     "name": "17308629240",
+     "real_name": "小陈",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   }
+  ],
+  "_seed": 1
+ },
+ {
+  "id": 1833,
+  "title": "月度盘点安排",
+  "content": "<p>本月末进行仓库盘点，盘点期间库存单据暂停审批。</p>",
+  "create_user_id": 184685,
+  "created_at": "2026-10-19 09:00:00",
+  "updated_at": "2026-10-19 09:00:00",
+  "del": 2,
+  "reason": null,
+  "enterprise_id": 16807,
+  "type": 1,
+  "fieldValueList": [],
+  "has_read": 1,
+  "has_read_count": 3,
+  "not_read_count": 9,
+  "has_read_user_list": [
+   {
+    "id": 83176,
+    "user_id": 144814,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 144814,
+     "name": "13810266941",
+     "real_name": "13810266941",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83181,
+    "user_id": 177648,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 177648,
+     "name": "张总",
+     "real_name": "张总",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83186,
+    "user_id": 184685,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 184685,
+     "name": "17308629240",
+     "real_name": "小陈",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   }
+  ],
+  "not_read_user_list": [
+   {
+    "id": 83175,
+    "user_id": 63097,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 63097,
+     "name": "小王",
+     "real_name": "小王",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83177,
+    "user_id": 157707,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 157707,
+     "name": "库管",
+     "real_name": "库管",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83178,
+    "user_id": 174263,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 174263,
+     "name": "刘丽",
+     "real_name": "刘丽",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83179,
+    "user_id": 174720,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 174720,
+     "name": "19709777122",
+     "real_name": "19709777122",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83180,
+    "user_id": 175922,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 175922,
+     "name": "15820200752",
+     "real_name": "15820200752",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83182,
+    "user_id": 178705,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 178705,
+     "name": "包装高总",
+     "real_name": "包装高总",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83183,
+    "user_id": 180864,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 180864,
+     "name": "宁波粤海汽车零部件有限公司",
+     "real_name": "贺总",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83184,
+    "user_id": 182761,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 182761,
+     "name": "13643180612",
+     "real_name": "13643180612",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83185,
+    "user_id": 183754,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 183754,
+     "name": "17396605496",
+     "real_name": "17396605496",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   }
+  ],
+  "profile": "！！！",
+  "create_user": {
+   "id": 184685,
+   "enterprise_id": 16807,
+   "name": "17308629240",
+   "real_name": "小陈",
+   "avatar": null,
+   "openid": null,
+   "is_enable": 1,
+   "del": 1,
+   "induction_date": null,
+   "agent_department_id": null,
+   "suite_user_id": null,
+   "type": 1,
+   "unionid": null,
+   "ding_talk_userid": null,
+   "agent_id": 5,
+   "has_password": false,
+   "type_name": "普通用户",
+   "claw_fun_type_name": "",
+   "qr_code_url": "https://single.kgd.ltd/#/u?qr_id=184685"
+  },
+  "attachments": [],
+  "notice_user": [
+   {
+    "id": 83175,
+    "user_id": 63097,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 63097,
+     "name": "小王",
+     "real_name": "小王",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83176,
+    "user_id": 144814,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 144814,
+     "name": "13810266941",
+     "real_name": "13810266941",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83177,
+    "user_id": 157707,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 157707,
+     "name": "库管",
+     "real_name": "库管",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83178,
+    "user_id": 174263,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 174263,
+     "name": "刘丽",
+     "real_name": "刘丽",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83179,
+    "user_id": 174720,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 174720,
+     "name": "19709777122",
+     "real_name": "19709777122",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83180,
+    "user_id": 175922,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 175922,
+     "name": "15820200752",
+     "real_name": "15820200752",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83181,
+    "user_id": 177648,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 177648,
+     "name": "张总",
+     "real_name": "张总",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83182,
+    "user_id": 178705,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 178705,
+     "name": "包装高总",
+     "real_name": "包装高总",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83183,
+    "user_id": 180864,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 180864,
+     "name": "宁波粤海汽车零部件有限公司",
+     "real_name": "贺总",
+     "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83184,
+    "user_id": 182761,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 182761,
+     "name": "13643180612",
+     "real_name": "13643180612",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83185,
+    "user_id": 183754,
+    "notice_id": 1830,
+    "has_read": 2,
+    "in_range": 1,
+    "user": {
+     "id": 183754,
+     "name": "17396605496",
+     "real_name": "17396605496",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   },
+   {
+    "id": 83186,
+    "user_id": 184685,
+    "notice_id": 1830,
+    "has_read": 1,
+    "in_range": 1,
+    "user": {
+     "id": 184685,
+     "name": "17308629240",
+     "real_name": "小陈",
+     "avatar": null,
+     "has_password": false,
+     "type_name": "",
+     "claw_fun_type_name": "",
+     "qr_code_url": null
+    }
+   }
+  ],
+  "_seed": 1
+ }
+]

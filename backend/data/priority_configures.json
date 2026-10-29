@@ -1,0 +1,38 @@
+[
+ {
+  "id": 145451,
+  "enterprise_id": 16807,
+  "name": "延期",
+  "color": "#ffc12a",
+  "order_number": 3,
+  "del": 2,
+  "created_at": "2026-01-03 13:43:28",
+  "updated_at": "2026-01-03 13:43:28",
+  "type": 1,
+  "fieldValueList": []
+ },
+ {
+  "id": 145450,
+  "enterprise_id": 16807,
+  "name": "正常",
+  "color": "#9aba60",
+  "order_number": 2,
+  "del": 2,
+  "created_at": "2026-01-03 13:43:28",
+  "updated_at": "2026-01-03 13:43:28",
+  "type": 1,
+  "fieldValueList": []
+ },
+ {
+  "id": 145449,
+  "enterprise_id": 16807,
+  "name": "加急",
+  "color": "#ff1e02",
+  "order_number": 1,
+  "del": 2,
+  "created_at": "2026-01-03 13:43:28",
+  "updated_at": "2026-01-03 13:43:28",
+  "type": 1,
+  "fieldValueList": []
+ }
+]

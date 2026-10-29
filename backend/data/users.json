@@ -1,0 +1,1806 @@
+[
+ {
+  "id": 63097,
+  "name": "小王",
+  "real_name": "小王",
+  "is_enable": true,
+  "role_id": 162747,
+  "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+  "type": 1,
+  "mobile": "15606326956",
+  "department_id": 823466,
+  "suite_user_id": null,
+  "department_path_names": "生产管理部/生产一部",
+  "department_path_ids": [
+   823465,
+   823466
+  ],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,售后维修部,工单回访部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": {
+   "id": 823466,
+   "parent_id": 823465,
+   "name": "生产一部",
+   "is_leaf": 1,
+   "order_number": 1
+  },
+  "updated_at": "2026-10-29 11:28:37"
+ },
+ {
+  "id": 157707,
+  "name": "库管",
+  "real_name": "库管",
+  "is_enable": true,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "17863770317",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,售后维修部,工单回访部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 216100,
+  "name": "13480234710",
+  "real_name": "13480234710",
+  "is_enable": true,
+  "role_id": 370296,
+  "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+  "type": 1,
+  "mobile": "13480234710",
+  "department_id": 823466,
+  "suite_user_id": null,
+  "department_path_names": "生产管理部/生产一部",
+  "department_path_ids": [
+   823465,
+   823466
+  ],
+  "team": [
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "客服部,维修保养部,售后维修团队,售后维修部,工单回访部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 370296,
+   "name": "演示账号"
+  },
+  "department": {
+   "id": 823466,
+   "parent_id": 823465,
+   "name": "生产一部",
+   "is_leaf": 1,
+   "order_number": 1
+  }
+ },
+ {
+  "id": 228936,
+  "name": "6688",
+  "real_name": "测试",
+  "is_enable": true,
+  "role_id": 204464,
+  "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+  "type": 1,
+  "mobile": "13119580623",
+  "department_id": 823466,
+  "suite_user_id": null,
+  "department_path_names": "生产管理部/生产一部",
+  "department_path_ids": [
+   823465,
+   823466
+  ],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   }
+  ],
+  "team_names": "售后维修团队",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 204464,
+   "name": "生产人员"
+  },
+  "department": {
+   "id": 823466,
+   "parent_id": 823465,
+   "name": "生产一部",
+   "is_leaf": 1,
+   "order_number": 1
+  }
+ },
+ {
+  "id": 230342,
+  "name": "小城",
+  "real_name": "小城",
+  "is_enable": true,
+  "role_id": 370296,
+  "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+  "type": 1,
+  "mobile": "18664916824",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 41743,
+    "name": "客服部"
+   }
+  ],
+  "team_names": "客服部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 370296,
+   "name": "演示账号"
+  },
+  "department": null
+ },
+ {
+  "id": 230979,
+  "name": "洪强",
+  "real_name": "洪强",
+  "is_enable": true,
+  "role_id": 370296,
+  "avatar": null,
+  "type": 1,
+  "mobile": "18823316691",
+  "department_id": 823466,
+  "suite_user_id": null,
+  "department_path_names": "生产管理部/生产一部",
+  "department_path_ids": [
+   823465,
+   823466
+  ],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   }
+  ],
+  "team_names": "售后维修团队",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 370296,
+   "name": "演示账号"
+  },
+  "department": {
+   "id": 823466,
+   "parent_id": 823465,
+   "name": "生产一部",
+   "is_leaf": 1,
+   "order_number": 1
+  }
+ },
+ {
+  "id": 236156,
+  "name": "1122",
+  "real_name": "成",
+  "is_enable": true,
+  "role_id": 380224,
+  "avatar": null,
+  "type": 1,
+  "mobile": "15818665872",
+  "department_id": 823466,
+  "suite_user_id": null,
+  "department_path_names": "生产管理部/生产一部",
+  "department_path_ids": [
+   823465,
+   823466
+  ],
+  "team": [
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   }
+  ],
+  "team_names": "维修保养部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 380224,
+   "name": "极简"
+  },
+  "department": {
+   "id": 823466,
+   "parent_id": 823465,
+   "name": "生产一部",
+   "is_leaf": 1,
+   "order_number": 1
+  }
+ },
+ {
+  "id": 245355,
+  "name": "陈",
+  "real_name": "陈",
+  "is_enable": true,
+  "role_id": 370296,
+  "avatar": null,
+  "type": 1,
+  "mobile": "15606326957",
+  "department_id": 823471,
+  "suite_user_id": null,
+  "department_path_names": "售后部",
+  "department_path_ids": [
+   823471
+  ],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,售后维修部,工单回访部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 370296,
+   "name": "演示账号"
+  },
+  "department": {
+   "id": 823471,
+   "parent_id": null,
+   "name": "售后部",
+   "is_leaf": 2,
+   "order_number": 1164
+  }
+ },
+ {
+  "id": 245758,
+  "name": "董工",
+  "real_name": "董工",
+  "is_enable": true,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "17763079758",
+  "department_id": 823466,
+  "suite_user_id": null,
+  "department_path_names": "生产管理部/生产一部",
+  "department_path_ids": [
+   823465,
+   823466
+  ],
+  "team": [
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   }
+  ],
+  "team_names": "维修保养部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": {
+   "id": 823466,
+   "parent_id": 823465,
+   "name": "生产一部",
+   "is_leaf": 1,
+   "order_number": 1
+  }
+ },
+ {
+  "id": 247888,
+  "name": "测试账号",
+  "real_name": "测试账号",
+  "is_enable": true,
+  "role_id": 162747,
+  "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+  "type": 1,
+  "mobile": "15917664668",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   }
+  ],
+  "team_names": "维修保养部,售后维修团队",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 248488,
+  "name": "张总",
+  "real_name": "张总",
+  "is_enable": true,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "18864778814",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,售后维修部,工单回访部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 248538,
+  "name": "123456",
+  "real_name": "456",
+  "is_enable": true,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "18864778811",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   }
+  ],
+  "team_names": "售后维修团队",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 249248,
+  "name": "13068616995",
+  "real_name": "13068616995",
+  "is_enable": true,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "13068616995",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,售后维修部,工单回访部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 249255,
+  "name": "王小姐",
+  "real_name": "王小姐",
+  "is_enable": true,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "18022360832",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,售后维修部,工单回访部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 249626,
+  "name": "测试",
+  "real_name": "Z0001",
+  "is_enable": true,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "12233445566",
+  "department_id": 823465,
+  "suite_user_id": null,
+  "department_path_names": "生产管理部",
+  "department_path_ids": [
+   823465
+  ],
+  "team": [
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   }
+  ],
+  "team_names": "维修保养部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": {
+   "id": 823465,
+   "parent_id": null,
+   "name": "生产管理部",
+   "is_leaf": 2,
+   "order_number": 1161
+  }
+ },
+ {
+  "id": 250151,
+  "name": "测试2",
+  "real_name": "测试2",
+  "is_enable": true,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "15606326955",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,售后维修部,工单回访部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 250287,
+  "name": "17818009226",
+  "real_name": "17818009225",
+  "is_enable": true,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "17818009226",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,售后维修部,工单回访部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 250574,
+  "name": "佳H",
+  "real_name": "佳H",
+  "is_enable": true,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "15871772084",
+  "department_id": 823466,
+  "suite_user_id": null,
+  "department_path_names": "生产管理部/生产一部",
+  "department_path_ids": [
+   823465,
+   823466
+  ],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   }
+  ],
+  "team_names": "售后维修团队",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": {
+   "id": 823466,
+   "parent_id": 823465,
+   "name": "生产一部",
+   "is_leaf": 1,
+   "order_number": 1
+  }
+ },
+ {
+  "id": 144814,
+  "name": "13810266941",
+  "real_name": "13810266941",
+  "is_enable": false,
+  "role_id": 162747,
+  "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+  "type": 1,
+  "mobile": "13810266941",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,工单回访部,售后维修部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 146834,
+  "name": "13567267532",
+  "real_name": "13567267532",
+  "is_enable": false,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "13567267532",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [],
+  "team_names": "",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 148451,
+  "name": "18902462690",
+  "real_name": "18902462690",
+  "is_enable": false,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "18902462690",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [],
+  "team_names": "",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 159632,
+  "name": "17877991895",
+  "real_name": "17877991895",
+  "is_enable": false,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "17877991895",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [],
+  "team_names": "",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 159633,
+  "name": "15886369555",
+  "real_name": "15886369555",
+  "is_enable": false,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "15886369555",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [],
+  "team_names": "",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 174263,
+  "name": "刘丽",
+  "real_name": "刘丽",
+  "is_enable": false,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "15606326955",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,工单回访部,售后维修部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 174720,
+  "name": "19709777122",
+  "real_name": "19709777122",
+  "is_enable": false,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "19709777122",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,售后维修部,工单回访部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 175922,
+  "name": "15820200752",
+  "real_name": "15820200752",
+  "is_enable": false,
+  "role_id": 162747,
+  "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+  "type": 1,
+  "mobile": "15820200752",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,售后维修部,工单回访部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 178705,
+  "name": "包装高总",
+  "real_name": "包装高总",
+  "is_enable": false,
+  "role_id": 162747,
+  "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+  "type": 1,
+  "mobile": "15801020213",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,工单回访部,售后维修部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 182761,
+  "name": "13643180612",
+  "real_name": "13643180612",
+  "is_enable": false,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "13643180612",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,售后维修部,工单回访部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 183754,
+  "name": "17396605496",
+  "real_name": "17396605496",
+  "is_enable": false,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "17396605496",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,工单回访部,售后维修部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 186092,
+  "name": "13975077337",
+  "real_name": "13975077337",
+  "is_enable": false,
+  "role_id": 162747,
+  "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+  "type": 1,
+  "mobile": "13975077337",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "维修保养部,售后维修团队,客服部,售后维修部,工单回访部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 189728,
+  "name": "18267909485",
+  "real_name": "18267909485",
+  "is_enable": false,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "18267909485",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "维修保养部,客服部,售后维修团队,工单回访部,售后维修部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 196798,
+  "name": "李总",
+  "real_name": "李总",
+  "is_enable": false,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "19281287002",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,售后维修部,工单回访部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 214890,
+  "name": "18611528888",
+  "real_name": "小张",
+  "is_enable": false,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "18611528888",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "维修保养部,客服部,售后维修团队,工单回访部,售后维修部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 216049,
+  "name": "13731858959",
+  "real_name": "南京乾瑞电力科技有限公司",
+  "is_enable": false,
+  "role_id": 162747,
+  "avatar": "https://up.sh-t.com.cn/e_16807/2026-06-11/c3bc8d7f62cf087485da0a80127c7d7b.png",
+  "type": 1,
+  "mobile": "13731858959",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,售后维修部,工单回访部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 230551,
+  "name": "13823389559",
+  "real_name": "13823389559",
+  "is_enable": false,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "13823389559",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,售后维修部,工单回访部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ },
+ {
+  "id": 232148,
+  "name": "李志豪",
+  "real_name": "李志豪",
+  "is_enable": false,
+  "role_id": 370296,
+  "avatar": null,
+  "type": 1,
+  "mobile": "13416770408",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,售后维修部,工单回访部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 370296,
+   "name": "演示账号"
+  },
+  "department": null
+ },
+ {
+  "id": 233053,
+  "name": "丁",
+  "real_name": "丁",
+  "is_enable": false,
+  "role_id": 370296,
+  "avatar": null,
+  "type": 1,
+  "mobile": "13630066495",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,售后维修部,工单回访部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 370296,
+   "name": "演示账号"
+  },
+  "department": null
+ },
+ {
+  "id": 233454,
+  "name": "13758896768",
+  "real_name": "13758896768",
+  "is_enable": false,
+  "role_id": 370296,
+  "avatar": null,
+  "type": 1,
+  "mobile": "13758896768",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 18235,
+    "name": "售后维修团队"
+   },
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   },
+   {
+    "id": 41743,
+    "name": "客服部"
+   },
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   },
+   {
+    "id": 41745,
+    "name": "工单回访部"
+   },
+   {
+    "id": 41746,
+    "name": "工单审核部"
+   }
+  ],
+  "team_names": "售后维修团队,维修保养部,客服部,售后维修部,工单回访部,工单审核部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 370296,
+   "name": "演示账号"
+  },
+  "department": null
+ },
+ {
+  "id": 233888,
+  "name": "极简",
+  "real_name": "极简",
+  "is_enable": false,
+  "role_id": 380224,
+  "avatar": null,
+  "type": 1,
+  "mobile": "6688123",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 41744,
+    "name": "售后维修部"
+   }
+  ],
+  "team_names": "售后维修部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 380224,
+   "name": "极简"
+  },
+  "department": null
+ },
+ {
+  "id": 241370,
+  "name": "13859769905",
+  "real_name": "13859769905",
+  "is_enable": false,
+  "role_id": 162747,
+  "avatar": null,
+  "type": 1,
+  "mobile": "13859769905",
+  "department_id": null,
+  "suite_user_id": null,
+  "department_path_names": "",
+  "department_path_ids": [],
+  "team": [
+   {
+    "id": 41742,
+    "name": "维修保养部"
+   }
+  ],
+  "team_names": "维修保养部",
+  "fieldValueList": [],
+  "has_password": false,
+  "type_name": "普通用户",
+  "claw_fun_type_name": "",
+  "qr_code_url": null,
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "department": null
+ }
+]

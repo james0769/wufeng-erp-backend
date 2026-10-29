@@ -1,0 +1,23 @@
+[
+ {
+  "id": 2101,
+  "file_name": "1770000000(1000001-1000003).xlsx",
+  "amount": 3,
+  "code_start": "1000001",
+  "code_end": "1000003",
+  "download_type": "xlsx",
+  "created_at": "2026-01-04 15:19:40",
+  "user_id": 63097,
+  "real_name": "小王",
+  "enterprise_id": 16807,
+  "updated_at": "2026-01-04 15:19:40",
+  "file_path": "https://up.sh-t.com.cn/kgd-demo/2101.xlsx",
+  "fieldValueList": [],
+  "operator": {
+   "id": 63097,
+   "real_name": "小王"
+  },
+  "del": 2,
+  "_seed": 1
+ }
+]

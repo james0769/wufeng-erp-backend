@@ -1,0 +1,1299 @@
+[
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260110001",
+  "name": "110",
+  "delivery_date": "2026-01-16",
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "QF-2026-001",
+     "name": "乘用车空气滤清器",
+     "standard": "适配XX品牌XX系列"
+    },
+    "goods_source": 1,
+    "num": "1000.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-01-10 15:44:34",
+  "_seed": 1,
+  "id": 16489563,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260115001",
+  "name": "115",
+  "delivery_date": "2026-01-23",
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202601150001",
+     "name": "F柜成品",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "1.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-01-15 12:48:08",
+  "_seed": 1,
+  "id": 16489559,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260130001",
+  "name": "0130衣柜加工单",
+  "delivery_date": "2026-02-02",
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202601150001",
+     "name": "F柜成品",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "2.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-01-30 14:44:10",
+  "_seed": 1,
+  "id": 16489554,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260422001",
+  "name": "422",
+  "delivery_date": "2026-04-24",
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202603250004",
+     "name": "仓栅栏板",
+     "standard": "1.8米高仓栅"
+    },
+    "goods_source": 1,
+    "num": "1000.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202603250010",
+     "name": "牵引销",
+     "standard": "90#标准牵引销"
+    },
+    "goods_source": 1,
+    "num": "1000.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-04-22 18:08:32",
+  "_seed": 1,
+  "id": 16489549,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260423001",
+  "name": "423",
+  "delivery_date": "2026-04-30",
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202603140001",
+     "name": "1",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "1000.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-04-23 09:44:51",
+  "_seed": 1,
+  "id": 16489546,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260427001",
+  "name": "427",
+  "delivery_date": null,
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202604080001",
+     "name": "眼镜",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "150.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-04-27 09:56:37",
+  "_seed": 1,
+  "id": 16489542,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260519001",
+  "name": "520",
+  "delivery_date": null,
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202601040009",
+     "name": "汽车零部件",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "5.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-05-19 12:39:54",
+  "_seed": 1,
+  "id": 16489538,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260519002",
+  "name": "测试",
+  "delivery_date": null,
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202605130001",
+     "name": "联轴器",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "100.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-05-19 12:55:32",
+  "_seed": 1,
+  "id": 16489532,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260528001",
+  "name": "0528-1",
+  "delivery_date": "2026-06-04",
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202504270006",
+     "name": "电竞机箱",
+     "standard": "ATX 中塔 钢化玻璃侧透"
+    },
+    "goods_source": 1,
+    "num": "50.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-05-28 14:51:46",
+  "_seed": 1,
+  "id": 16489526,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260530002",
+  "name": "0530-1",
+  "delivery_date": null,
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202605150004",
+     "name": "AAAA",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "100.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-05-30 13:54:32",
+  "_seed": 1,
+  "id": 16489523,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260605001",
+  "name": "505",
+  "delivery_date": null,
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "CP-001-03",
+     "name": "耐磨衬套",
+     "standard": "Φ80×30mm"
+    },
+    "goods_source": 1,
+    "num": "200.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202605130001",
+     "name": "联轴器",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "200.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "CP-001-01",
+     "name": "转向节本体",
+     "standard": "Φ120×250mm"
+    },
+    "goods_source": 1,
+    "num": "200.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "CP-001",
+     "name": "汽车转向节总成",
+     "standard": "ZJ-2024"
+    },
+    "goods_source": 1,
+    "num": "200.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202601040009",
+     "name": "汽车零部件",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "200.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-06-05 08:56:46",
+  "_seed": 1,
+  "id": 16489518,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260609001",
+  "name": "AAAA",
+  "delivery_date": null,
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "王总",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202605150004",
+     "name": "AAAA",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "100.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-06-09 19:31:45",
+  "_seed": 1,
+  "id": 16489512,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260622001",
+  "name": "622",
+  "delivery_date": "2026-06-24",
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "CP-001-03",
+     "name": "耐磨衬套",
+     "standard": "Φ80×30mm"
+    },
+    "goods_source": 1,
+    "num": "20.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202605130001",
+     "name": "联轴器",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "20.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "CP-001-01",
+     "name": "转向节本体",
+     "standard": "Φ120×250mm"
+    },
+    "goods_source": 1,
+    "num": "20.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "CP-001",
+     "name": "汽车转向节总成",
+     "standard": "ZJ-2024"
+    },
+    "goods_source": 1,
+    "num": "20.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202601040009",
+     "name": "汽车零部件",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "20.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-06-22 14:41:12",
+  "_seed": 1,
+  "id": 16489510,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260630002",
+  "name": "mtc生产计划2",
+  "delivery_date": "2026-07-12",
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "王总",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202606300001",
+     "name": "汽车轮毂_上模穴",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "10.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202606300002",
+     "name": "汽车轮毂_下模穴",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "20.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "YZMJ",
+     "name": "汽车轮毂压铸模具",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "10.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-06-30 18:31:32",
+  "_seed": 1,
+  "id": 16489507,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260707001",
+  "name": "电池",
+  "delivery_date": null,
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202601140001",
+     "name": "电池",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "100.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-07-07 10:48:24",
+  "_seed": 1,
+  "id": 16489504,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260710001",
+  "name": "710",
+  "delivery_date": null,
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202607100001",
+     "name": "测试产品",
+     "standard": "200*230*23"
+    },
+    "goods_source": 1,
+    "num": "200.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-07-10 14:26:06",
+  "_seed": 1,
+  "id": 16489499,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260722001",
+  "name": "722",
+  "delivery_date": "2026-07-30",
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "DJ-001-06",
+     "name": "工作台面",
+     "standard": "2000×1200mm"
+    },
+    "goods_source": 1,
+    "num": "5.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "DJ-001-01",
+     "name": "床身底座",
+     "standard": "3500×1800×500mm"
+    },
+    "goods_source": 1,
+    "num": "5.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "DJ-001",
+     "name": "大型数控镗铣床",
+     "standard": "TK6513"
+    },
+    "goods_source": 1,
+    "num": "5.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202601040011",
+     "name": "大型设备A",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "5.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-07-22 17:57:29",
+  "_seed": 1,
+  "id": 16489498,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260724001",
+  "name": "测试 YBDZ",
+  "delivery_date": "2026-08-15",
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "13480234710",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202607240001",
+     "name": "L1-1",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "1000.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "YBDZ-L1",
+     "name": "L1",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "1000.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "YBDZ-001",
+     "name": "电子产品多级测试",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "1000.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-07-24 13:22:52",
+  "_seed": 1,
+  "id": 16489495,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260724002",
+  "name": "724",
+  "delivery_date": "2026-07-31",
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202607240001",
+     "name": "L1-1",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "1000.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "YBDZ-L1",
+     "name": "L1",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "1000.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "YBDZ-001",
+     "name": "电子产品多级测试",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "1000.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-07-24 13:50:19",
+  "_seed": 1,
+  "id": 16489492,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260809001",
+  "name": "809",
+  "delivery_date": null,
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202603250003",
+     "name": "挂车车架",
+     "standard": "13米型钢车架"
+    },
+    "goods_source": 1,
+    "num": "20.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202603250002",
+     "name": "半挂车",
+     "standard": "13米仓栅式"
+    },
+    "goods_source": 1,
+    "num": "20.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-08-09 09:37:37",
+  "_seed": 1,
+  "id": 16489488,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260810003",
+  "name": "810",
+  "delivery_date": null,
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202601220004",
+     "name": "混炼胶",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "100.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202601220003",
+     "name": "塑料胶",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "100.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202601220001",
+     "name": "塑胶",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "100.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-08-10 10:33:14",
+  "_seed": 1,
+  "id": 16489485,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20260818001",
+  "name": "817",
+  "delivery_date": "2026-08-26",
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202504270007",
+     "name": "酷睿 i7 台式电脑",
+     "standard": "i7-13700F/32G/1TB/RTX4070/27 寸 4K"
+    },
+    "goods_source": 1,
+    "num": "20.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202504270006",
+     "name": "电竞机箱",
+     "standard": "ATX 中塔 钢化玻璃侧透"
+    },
+    "goods_source": 1,
+    "num": "20.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "MAT-WELD-001",
+     "name": "极耳焊接用焊带",
+     "standard": "铝镁合金，直径0.8mm"
+    },
+    "goods_source": 1,
+    "num": "20.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-08-18 10:35:39",
+  "_seed": 1,
+  "id": 16489482,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20261005001",
+  "name": "1005",
+  "delivery_date": "2026-10-15",
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202610050021",
+     "name": "控制线束总成",
+     "standard": "GCP-WH-01"
+    },
+    "goods_source": 1,
+    "num": "100.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202610050012",
+     "name": "控制电路板PCBA",
+     "standard": "GCP-PCBA-01"
+    },
+    "goods_source": 1,
+    "num": "100.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202610050011",
+     "name": "智能控制模块",
+     "standard": "GCP-CU-SMART"
+    },
+    "goods_source": 1,
+    "num": "100.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202610050007",
+     "name": "面板门板组件",
+     "standard": "GCP-DR-400x300"
+    },
+    "goods_source": 1,
+    "num": "100.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202610050002",
+     "name": "面板柜体",
+     "standard": "GCP-CT-400x300x150"
+    },
+    "goods_source": 1,
+    "num": "100.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202610050001",
+     "name": "发电机控制面板",
+     "standard": "GCP-30KW-A"
+    },
+    "goods_source": 1,
+    "num": "100.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-10-05 14:13:05",
+  "_seed": 1,
+  "id": 16489479,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20261007001",
+  "name": "1007",
+  "delivery_date": "2026-10-23",
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202610070019",
+     "name": "充电仓PCBA",
+     "standard": "PCBA-A1-C"
+    },
+    "goods_source": 1,
+    "num": "990.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202610070016",
+     "name": "充电仓",
+     "standard": "TWS-A1-C"
+    },
+    "goods_source": 1,
+    "num": "1000.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202610070005",
+     "name": "耳机主PCBA",
+     "standard": "PCBA-A1"
+    },
+    "goods_source": 1,
+    "num": "1000.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202610070014",
+     "name": "右耳机",
+     "standard": "TWS-A1-R"
+    },
+    "goods_source": 1,
+    "num": "1000.00000000"
+   },
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202610070001",
+     "name": "TWS真无线蓝牙耳机",
+     "standard": "TWS-A1 带充电仓"
+    },
+    "goods_source": 1,
+    "num": "1000.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-10-07 15:18:50",
+  "_seed": 1,
+  "id": 16489476,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20261007002",
+  "name": "10047",
+  "delivery_date": "2026-10-28",
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202610070028",
+     "name": "洁牙器",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "1000.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-10-07 16:00:20",
+  "_seed": 1,
+  "id": 16489472,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20261013001",
+  "name": "1013",
+  "delivery_date": null,
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "小王",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202601070033",
+     "name": "电子连接器",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "1000.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-10-13 13:50:03",
+  "_seed": 1,
+  "id": 16489463,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ },
+ {
+  "enterprise_id": 16807,
+  "code": "JH20261015001",
+  "name": "111",
+  "delivery_date": "2026-10-18",
+  "remark": null,
+  "has_analysis": 2,
+  "is_invalid": 2,
+  "analysis_time": null,
+  "analysis_user_id": null,
+  "analysis_remark": null,
+  "analysis_strategy_id": null,
+  "ware_ids": null,
+  "create_user_id": null,
+  "create_user_name": "董工",
+  "item_list": [
+   {
+    "goods_id": null,
+    "goods": {
+     "id": null,
+     "code": "SP202610150002",
+     "name": "测试11",
+     "standard": null
+    },
+    "goods_source": 1,
+    "num": "10.00000000"
+   }
+  ],
+  "fieldValueList": [],
+  "created_at": "2026-10-15 15:01:30",
+  "_seed": 1,
+  "id": 16489462,
+  "updated_at": "2026-10-29 03:41:29",
+  "del": 2
+ }
+]

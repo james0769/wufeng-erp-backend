@@ -1,0 +1,332 @@
+[
+ {
+  "id": 467622,
+  "name": "普通车床",
+  "code": "Lathe",
+  "standard": "Ø500~Ø800mm",
+  "avatars": [],
+  "del": 2,
+  "enterprise_id": 16807,
+  "is_enable": true,
+  "device_status_id": 33350,
+  "category_id": 823447,
+  "category_path_names": "双头数控车床",
+  "category_path_ids": [
+   823447
+  ],
+  "workshop_path_names": "",
+  "workshop_path_ids": [],
+  "type_name": "",
+  "category": {
+   "id": 823447,
+   "parent_id": null,
+   "name": "双头数控车床",
+   "name_path": "双头数控车床"
+  },
+  "device_status": {
+   "id": 33350,
+   "name": "正常",
+   "color": "#00af57",
+   "enterprise_id": 16807,
+   "status_type": 1,
+   "status_type_name": "完好"
+  }
+ },
+ {
+  "id": 467623,
+  "name": "数控车床",
+  "code": "CNC Lathe",
+  "standard": "Ø1000mm",
+  "avatars": [],
+  "del": 2,
+  "enterprise_id": 16807,
+  "is_enable": true,
+  "device_status_id": 63110,
+  "category_id": 823447,
+  "category_path_names": "双头数控车床",
+  "category_path_ids": [
+   823447
+  ],
+  "workshop_path_names": "",
+  "workshop_path_ids": [],
+  "type_name": "",
+  "category": {
+   "id": 823447,
+   "parent_id": null,
+   "name": "双头数控车床",
+   "name_path": "双头数控车床"
+  },
+  "device_status": {
+   "id": 63110,
+   "name": "运行中",
+   "color": "#4e81bb",
+   "enterprise_id": 16807,
+   "status_type": 1,
+   "status_type_name": "完好"
+  }
+ },
+ {
+  "id": 467624,
+  "name": "立式铣床",
+  "code": "Milling Machine",
+  "standard": "100~3000rpm",
+  "avatars": [],
+  "del": 2,
+  "enterprise_id": 16807,
+  "is_enable": true,
+  "device_status_id": 63110,
+  "category_id": 823450,
+  "category_path_names": "数控立钻",
+  "category_path_ids": [
+   823450
+  ],
+  "workshop_path_names": "",
+  "workshop_path_ids": [],
+  "type_name": "",
+  "category": {
+   "id": 823450,
+   "parent_id": null,
+   "name": "数控立钻",
+   "name_path": "数控立钻"
+  },
+  "device_status": {
+   "id": 63110,
+   "name": "运行中",
+   "color": "#4e81bb",
+   "enterprise_id": 16807,
+   "status_type": 1,
+   "status_type_name": "完好"
+  }
+ },
+ {
+  "id": 467625,
+  "name": "数控铣床",
+  "code": "CNC Milling",
+  "standard": "50~2000rpm",
+  "avatars": [],
+  "del": 2,
+  "enterprise_id": 16807,
+  "is_enable": true,
+  "device_status_id": 33350,
+  "category_id": 823450,
+  "category_path_names": "数控立钻",
+  "category_path_ids": [
+   823450
+  ],
+  "workshop_path_names": "",
+  "workshop_path_ids": [],
+  "type_name": "",
+  "category": {
+   "id": 823450,
+   "parent_id": null,
+   "name": "数控立钻",
+   "name_path": "数控立钻"
+  },
+  "device_status": {
+   "id": 33350,
+   "name": "正常",
+   "color": "#00af57",
+   "enterprise_id": 16807,
+   "status_type": 1,
+   "status_type_name": "完好"
+  }
+ },
+ {
+  "id": 467626,
+  "name": "深孔钻床",
+  "code": "Drilling Machine",
+  "standard": "20~1200rpm",
+  "avatars": [],
+  "del": 2,
+  "enterprise_id": 16807,
+  "is_enable": true,
+  "device_status_id": 33351,
+  "category_id": 823450,
+  "category_path_names": "数控立钻",
+  "category_path_ids": [
+   823450
+  ],
+  "workshop_path_names": "",
+  "workshop_path_ids": [],
+  "type_name": "",
+  "category": {
+   "id": 823450,
+   "parent_id": null,
+   "name": "数控立钻",
+   "name_path": "数控立钻"
+  },
+  "device_status": {
+   "id": 33351,
+   "name": "维修中",
+   "color": "#ffc12a",
+   "enterprise_id": 16807,
+   "status_type": 2,
+   "status_type_name": "故障"
+  }
+ },
+ {
+  "id": 467627,
+  "name": "内圆磨床",
+  "code": "Grinding Machine",
+  "standard": "1.5~3kW",
+  "avatars": [],
+  "del": 2,
+  "enterprise_id": 16807,
+  "is_enable": true,
+  "device_status_id": 33350,
+  "category_id": 823450,
+  "category_path_names": "数控立钻",
+  "category_path_ids": [
+   823450
+  ],
+  "workshop_path_names": "",
+  "workshop_path_ids": [],
+  "type_name": "",
+  "category": {
+   "id": 823450,
+   "parent_id": null,
+   "name": "数控立钻",
+   "name_path": "数控立钻"
+  },
+  "device_status": {
+   "id": 33350,
+   "name": "正常",
+   "color": "#00af57",
+   "enterprise_id": 16807,
+   "status_type": 1,
+   "status_type_name": "完好"
+  }
+ },
+ {
+  "id": 467628,
+  "name": "带锯床/圆锯床",
+  "code": "锯床",
+  "standard": "100~3000rpm",
+  "avatars": [],
+  "del": 2,
+  "enterprise_id": 16807,
+  "is_enable": true,
+  "device_status_id": 63110,
+  "category_id": 823457,
+  "category_path_names": "切割机",
+  "category_path_ids": [
+   823457
+  ],
+  "workshop_path_names": "",
+  "workshop_path_ids": [],
+  "type_name": "",
+  "category": {
+   "id": 823457,
+   "parent_id": null,
+   "name": "切割机",
+   "name_path": "切割机"
+  },
+  "device_status": {
+   "id": 63110,
+   "name": "运行中",
+   "color": "#4e81bb",
+   "enterprise_id": 16807,
+   "status_type": 1,
+   "status_type_name": "完好"
+  }
+ },
+ {
+  "id": 467629,
+  "name": "折弯机",
+  "code": "折弯机",
+  "standard": "50~2000rpm",
+  "avatars": [],
+  "del": 2,
+  "enterprise_id": 16807,
+  "is_enable": true,
+  "device_status_id": 33350,
+  "category_id": 823457,
+  "category_path_names": "切割机",
+  "category_path_ids": [
+   823457
+  ],
+  "workshop_path_names": "",
+  "workshop_path_ids": [],
+  "type_name": "",
+  "category": {
+   "id": 823457,
+   "parent_id": null,
+   "name": "切割机",
+   "name_path": "切割机"
+  },
+  "device_status": {
+   "id": 33350,
+   "name": "正常",
+   "color": "#00af57",
+   "enterprise_id": 16807,
+   "status_type": 1,
+   "status_type_name": "完好"
+  }
+ },
+ {
+  "id": 467630,
+  "name": "剪板机",
+  "code": "剪板机",
+  "standard": "金属板材剪切",
+  "avatars": [],
+  "del": 2,
+  "enterprise_id": 16807,
+  "is_enable": true,
+  "device_status_id": 33351,
+  "category_id": 823457,
+  "category_path_names": "切割机",
+  "category_path_ids": [
+   823457
+  ],
+  "workshop_path_names": "",
+  "workshop_path_ids": [],
+  "type_name": "",
+  "category": {
+   "id": 823457,
+   "parent_id": null,
+   "name": "切割机",
+   "name_path": "切割机"
+  },
+  "device_status": {
+   "id": 33351,
+   "name": "维修中",
+   "color": "#ffc12a",
+   "enterprise_id": 16807,
+   "status_type": 2,
+   "status_type_name": "故障"
+  }
+ },
+ {
+  "id": 483578,
+  "name": "自动上糊机",
+  "code": "01",
+  "standard": null,
+  "avatars": [],
+  "del": 2,
+  "enterprise_id": 16807,
+  "is_enable": true,
+  "device_status_id": 33350,
+  "category_id": 861151,
+  "category_path_names": "裱糊设备",
+  "category_path_ids": [
+   861151
+  ],
+  "workshop_path_names": "",
+  "workshop_path_ids": [],
+  "type_name": "",
+  "category": {
+   "id": 861151,
+   "parent_id": null,
+   "name": "裱糊设备",
+   "name_path": "裱糊设备"
+  },
+  "device_status": {
+   "id": 33350,
+   "name": "正常",
+   "color": "#00af57",
+   "enterprise_id": 16807,
+   "status_type": 1,
+   "status_type_name": "完好"
+  }
+ }
+]

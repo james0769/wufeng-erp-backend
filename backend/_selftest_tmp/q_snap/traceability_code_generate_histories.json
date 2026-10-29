@@ -1,0 +1,65 @@
+[
+ {
+  "id": 1937,
+  "file_name": "1762848264(1000014-1000014).xlsx",
+  "amount": 1,
+  "code_start": "1000014",
+  "code_end": "1000014",
+  "download_type": "xlsx",
+  "created_at": "2025-11-11 16:04:24",
+  "user_id": 63097,
+  "real_name": "小王",
+  "enterprise_id": 16807,
+  "updated_at": "2025-11-11 16:04:24",
+  "file_path": "https://up.sh-t.com.cn/kgd-demo/fc333f001bf92730c1fc87870e9e3c58.xlsx",
+  "fieldValueList": [],
+  "operator": {
+   "id": 63097,
+   "real_name": "小王"
+  },
+  "del": 2,
+  "_seed": 1
+ },
+ {
+  "id": 2907,
+  "file_name": "1782959175(1000011-1000020).zip",
+  "amount": 10,
+  "code_start": "1000011",
+  "code_end": "1000020",
+  "download_type": "zip",
+  "created_at": "2026-07-02 10:26:16",
+  "user_id": 214890,
+  "real_name": "小张",
+  "enterprise_id": 16807,
+  "updated_at": "2026-07-02 10:26:16",
+  "file_path": "https://up.sh-t.com.cn/kgd-demo/19999970178fddddadc331479b734454.zip",
+  "fieldValueList": [],
+  "operator": {
+   "id": 214890,
+   "real_name": "小张"
+  },
+  "del": 2,
+  "_seed": 1
+ },
+ {
+  "id": 3102,
+  "file_name": "1786442936(1000011-1000011).zip",
+  "amount": 1,
+  "code_start": "1000011",
+  "code_end": "1000011",
+  "download_type": "zip",
+  "created_at": "2026-08-11 18:08:56",
+  "user_id": 144814,
+  "real_name": "13810266941",
+  "enterprise_id": 16807,
+  "updated_at": "2026-08-11 18:08:56",
+  "file_path": "https://up.sh-t.com.cn/kgd-demo/49b3e4ee1a5dd570ef75f257293ddc80.zip",
+  "fieldValueList": [],
+  "operator": {
+   "id": 144814,
+   "real_name": "13810266941"
+  },
+  "del": 2,
+  "_seed": 1
+ }
+]

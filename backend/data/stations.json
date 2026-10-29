@@ -1,0 +1,1283 @@
+[
+ {
+  "id": 63097,
+  "user_id": 63097,
+  "name": "小王",
+  "real_name": "小王",
+  "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+  "mobile": "15606326956",
+  "department": {
+   "id": 823466,
+   "parent_id": 823465,
+   "name": "生产一部",
+   "is_leaf": 1,
+   "order_number": 1
+  },
+  "department_id": 823466,
+  "department_path_names": "生产管理部/生产一部",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": true,
+  "reportable_craft_ids": [
+   450436
+  ],
+  "reportable_craft_names": "测试工序1",
+  "quality_able_craft_ids": [
+   450436
+  ],
+  "quality_able_craft_names": "测试工序1",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 157707,
+  "user_id": 157707,
+  "name": "库管",
+  "real_name": "库管",
+  "avatar": null,
+  "mobile": "17863770317",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": true,
+  "reportable_craft_ids": [
+   366482
+  ],
+  "reportable_craft_names": "铸造/锻造",
+  "quality_able_craft_ids": [
+   366482
+  ],
+  "quality_able_craft_names": "铸造/锻造",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 216100,
+  "user_id": 216100,
+  "name": "13480234710",
+  "real_name": "13480234710",
+  "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+  "mobile": "13480234710",
+  "department": {
+   "id": 823466,
+   "parent_id": 823465,
+   "name": "生产一部",
+   "is_leaf": 1,
+   "order_number": 1
+  },
+  "department_id": 823466,
+  "department_path_names": "生产管理部/生产一部",
+  "role": {
+   "id": 370296,
+   "name": "演示账号"
+  },
+  "role_id": 370296,
+  "role_name": "演示账号",
+  "is_enable": true,
+  "reportable_craft_ids": [
+   366481,
+   366479
+  ],
+  "reportable_craft_names": "防腐处理,硬化处理",
+  "quality_able_craft_ids": [],
+  "quality_able_craft_names": "",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 228936,
+  "user_id": 228936,
+  "name": "6688",
+  "real_name": "测试",
+  "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+  "mobile": "13119580623",
+  "department": {
+   "id": 823466,
+   "parent_id": 823465,
+   "name": "生产一部",
+   "is_leaf": 1,
+   "order_number": 1
+  },
+  "department_id": 823466,
+  "department_path_names": "生产管理部/生产一部",
+  "role": {
+   "id": 204464,
+   "name": "生产人员"
+  },
+  "role_id": 204464,
+  "role_name": "生产人员",
+  "is_enable": true,
+  "reportable_craft_ids": [
+   366478
+  ],
+  "reportable_craft_names": "密封件安装",
+  "quality_able_craft_ids": [
+   366478
+  ],
+  "quality_able_craft_names": "密封件安装",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 230342,
+  "user_id": 230342,
+  "name": "小城",
+  "real_name": "小城",
+  "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+  "mobile": "18664916824",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 370296,
+   "name": "演示账号"
+  },
+  "role_id": 370296,
+  "role_name": "演示账号",
+  "is_enable": true,
+  "reportable_craft_ids": [
+   366477,
+   366476
+  ],
+  "reportable_craft_names": "精车,钻孔",
+  "quality_able_craft_ids": [
+   366475
+  ],
+  "quality_able_craft_names": "焊接",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 230979,
+  "user_id": 230979,
+  "name": "洪强",
+  "real_name": "洪强",
+  "avatar": null,
+  "mobile": "18823316691",
+  "department": {
+   "id": 823466,
+   "parent_id": 823465,
+   "name": "生产一部",
+   "is_leaf": 1,
+   "order_number": 1
+  },
+  "department_id": 823466,
+  "department_path_names": "生产管理部/生产一部",
+  "role": {
+   "id": 370296,
+   "name": "演示账号"
+  },
+  "role_id": 370296,
+  "role_name": "演示账号",
+  "is_enable": true,
+  "reportable_craft_ids": [
+   366473
+  ],
+  "reportable_craft_names": "加工中心",
+  "quality_able_craft_ids": [],
+  "quality_able_craft_names": "",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 236156,
+  "user_id": 236156,
+  "name": "1122",
+  "real_name": "成",
+  "avatar": null,
+  "mobile": "15818665872",
+  "department": {
+   "id": 823466,
+   "parent_id": 823465,
+   "name": "生产一部",
+   "is_leaf": 1,
+   "order_number": 1
+  },
+  "department_id": 823466,
+  "department_path_names": "生产管理部/生产一部",
+  "role": {
+   "id": 380224,
+   "name": "极简"
+  },
+  "role_id": 380224,
+  "role_name": "极简",
+  "is_enable": true,
+  "reportable_craft_ids": [
+   450436
+  ],
+  "reportable_craft_names": "测试工序1",
+  "quality_able_craft_ids": [
+   450436
+  ],
+  "quality_able_craft_names": "测试工序1",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 245355,
+  "user_id": 245355,
+  "name": "陈",
+  "real_name": "陈",
+  "avatar": null,
+  "mobile": "15606326957",
+  "department": {
+   "id": 823471,
+   "parent_id": null,
+   "name": "售后部",
+   "is_leaf": 2,
+   "order_number": 1164
+  },
+  "department_id": 823471,
+  "department_path_names": "售后部",
+  "role": {
+   "id": 370296,
+   "name": "演示账号"
+  },
+  "role_id": 370296,
+  "role_name": "演示账号",
+  "is_enable": true,
+  "reportable_craft_ids": [
+   366480
+  ],
+  "reportable_craft_names": "机械加工",
+  "quality_able_craft_ids": [
+   366480
+  ],
+  "quality_able_craft_names": "机械加工",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 245758,
+  "user_id": 245758,
+  "name": "董工",
+  "real_name": "董工",
+  "avatar": null,
+  "mobile": "17763079758",
+  "department": {
+   "id": 823466,
+   "parent_id": 823465,
+   "name": "生产一部",
+   "is_leaf": 1,
+   "order_number": 1
+  },
+  "department_id": 823466,
+  "department_path_names": "生产管理部/生产一部",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": true,
+  "reportable_craft_ids": [
+   366479,
+   366481
+  ],
+  "reportable_craft_names": "硬化处理,防腐处理",
+  "quality_able_craft_ids": [],
+  "quality_able_craft_names": "",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 247888,
+  "user_id": 247888,
+  "name": "测试账号",
+  "real_name": "测试账号",
+  "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+  "mobile": "15917664668",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": true,
+  "reportable_craft_ids": [
+   366478
+  ],
+  "reportable_craft_names": "密封件安装",
+  "quality_able_craft_ids": [
+   366478
+  ],
+  "quality_able_craft_names": "密封件安装",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 248488,
+  "user_id": 248488,
+  "name": "张总",
+  "real_name": "张总",
+  "avatar": null,
+  "mobile": "18864778814",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": true,
+  "reportable_craft_ids": [
+   366476,
+   366475
+  ],
+  "reportable_craft_names": "钻孔,焊接",
+  "quality_able_craft_ids": [
+   366474
+  ],
+  "quality_able_craft_names": "铣加工",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 248538,
+  "user_id": 248538,
+  "name": "123456",
+  "real_name": "456",
+  "avatar": null,
+  "mobile": "18864778811",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": true,
+  "reportable_craft_ids": [
+   366473
+  ],
+  "reportable_craft_names": "加工中心",
+  "quality_able_craft_ids": [],
+  "quality_able_craft_names": "",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 249248,
+  "user_id": 249248,
+  "name": "13068616995",
+  "real_name": "13068616995",
+  "avatar": null,
+  "mobile": "13068616995",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": true,
+  "reportable_craft_ids": [
+   450436
+  ],
+  "reportable_craft_names": "测试工序1",
+  "quality_able_craft_ids": [
+   450436
+  ],
+  "quality_able_craft_names": "测试工序1",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 249255,
+  "user_id": 249255,
+  "name": "王小姐",
+  "real_name": "王小姐",
+  "avatar": null,
+  "mobile": "18022360832",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": true,
+  "reportable_craft_ids": [
+   366482
+  ],
+  "reportable_craft_names": "铸造/锻造",
+  "quality_able_craft_ids": [
+   366482
+  ],
+  "quality_able_craft_names": "铸造/锻造",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 249626,
+  "user_id": 249626,
+  "name": "测试",
+  "real_name": "Z0001",
+  "avatar": null,
+  "mobile": "12233445566",
+  "department": {
+   "id": 823465,
+   "parent_id": null,
+   "name": "生产管理部",
+   "is_leaf": 2,
+   "order_number": 1161
+  },
+  "department_id": 823465,
+  "department_path_names": "生产管理部",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": true,
+  "reportable_craft_ids": [
+   366481,
+   366479
+  ],
+  "reportable_craft_names": "防腐处理,硬化处理",
+  "quality_able_craft_ids": [],
+  "quality_able_craft_names": "",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 250151,
+  "user_id": 250151,
+  "name": "测试2",
+  "real_name": "测试2",
+  "avatar": null,
+  "mobile": "15606326955",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": true,
+  "reportable_craft_ids": [
+   366478
+  ],
+  "reportable_craft_names": "密封件安装",
+  "quality_able_craft_ids": [
+   366478
+  ],
+  "quality_able_craft_names": "密封件安装",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 250287,
+  "user_id": 250287,
+  "name": "17818009226",
+  "real_name": "17818009225",
+  "avatar": null,
+  "mobile": "17818009226",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": true,
+  "reportable_craft_ids": [
+   366475,
+   366474
+  ],
+  "reportable_craft_names": "焊接,铣加工",
+  "quality_able_craft_ids": [
+   366472
+  ],
+  "quality_able_craft_names": "粗车毛圆",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 250574,
+  "user_id": 250574,
+  "name": "佳H",
+  "real_name": "佳H",
+  "avatar": null,
+  "mobile": "15871772084",
+  "department": {
+   "id": 823466,
+   "parent_id": 823465,
+   "name": "生产一部",
+   "is_leaf": 1,
+   "order_number": 1
+  },
+  "department_id": 823466,
+  "department_path_names": "生产管理部/生产一部",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": true,
+  "reportable_craft_ids": [
+   366473
+  ],
+  "reportable_craft_names": "加工中心",
+  "quality_able_craft_ids": [],
+  "quality_able_craft_names": "",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 144814,
+  "user_id": 144814,
+  "name": "13810266941",
+  "real_name": "13810266941",
+  "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+  "mobile": "13810266941",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   450436
+  ],
+  "reportable_craft_names": "测试工序1",
+  "quality_able_craft_ids": [
+   450436
+  ],
+  "quality_able_craft_names": "测试工序1",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 146834,
+  "user_id": 146834,
+  "name": "13567267532",
+  "real_name": "13567267532",
+  "avatar": null,
+  "mobile": "13567267532",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   366480
+  ],
+  "reportable_craft_names": "机械加工",
+  "quality_able_craft_ids": [
+   366480
+  ],
+  "quality_able_craft_names": "机械加工",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 148451,
+  "user_id": 148451,
+  "name": "18902462690",
+  "real_name": "18902462690",
+  "avatar": null,
+  "mobile": "18902462690",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   366479,
+   366481
+  ],
+  "reportable_craft_names": "硬化处理,防腐处理",
+  "quality_able_craft_ids": [],
+  "quality_able_craft_names": "",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 159632,
+  "user_id": 159632,
+  "name": "17877991895",
+  "real_name": "17877991895",
+  "avatar": null,
+  "mobile": "17877991895",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   366478
+  ],
+  "reportable_craft_names": "密封件安装",
+  "quality_able_craft_ids": [
+   366478
+  ],
+  "quality_able_craft_names": "密封件安装",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 159633,
+  "user_id": 159633,
+  "name": "15886369555",
+  "real_name": "15886369555",
+  "avatar": null,
+  "mobile": "15886369555",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   366474,
+   366472
+  ],
+  "reportable_craft_names": "铣加工,粗车毛圆",
+  "quality_able_craft_ids": [
+   366471
+  ],
+  "quality_able_craft_names": "打磨",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 174263,
+  "user_id": 174263,
+  "name": "刘丽",
+  "real_name": "刘丽",
+  "avatar": null,
+  "mobile": "15606326955",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   366473
+  ],
+  "reportable_craft_names": "加工中心",
+  "quality_able_craft_ids": [],
+  "quality_able_craft_names": "",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 174720,
+  "user_id": 174720,
+  "name": "19709777122",
+  "real_name": "19709777122",
+  "avatar": null,
+  "mobile": "19709777122",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   450436
+  ],
+  "reportable_craft_names": "测试工序1",
+  "quality_able_craft_ids": [
+   450436
+  ],
+  "quality_able_craft_names": "测试工序1",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 175922,
+  "user_id": 175922,
+  "name": "15820200752",
+  "real_name": "15820200752",
+  "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+  "mobile": "15820200752",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   366482
+  ],
+  "reportable_craft_names": "铸造/锻造",
+  "quality_able_craft_ids": [
+   366482
+  ],
+  "quality_able_craft_names": "铸造/锻造",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 178705,
+  "user_id": 178705,
+  "name": "包装高总",
+  "real_name": "包装高总",
+  "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+  "mobile": "15801020213",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   366481,
+   366479
+  ],
+  "reportable_craft_names": "防腐处理,硬化处理",
+  "quality_able_craft_ids": [],
+  "quality_able_craft_names": "",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 182761,
+  "user_id": 182761,
+  "name": "13643180612",
+  "real_name": "13643180612",
+  "avatar": null,
+  "mobile": "13643180612",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   366478
+  ],
+  "reportable_craft_names": "密封件安装",
+  "quality_able_craft_ids": [
+   366478
+  ],
+  "quality_able_craft_names": "密封件安装",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 183754,
+  "user_id": 183754,
+  "name": "17396605496",
+  "real_name": "17396605496",
+  "avatar": null,
+  "mobile": "17396605496",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   366472,
+   366471
+  ],
+  "reportable_craft_names": "粗车毛圆,打磨",
+  "quality_able_craft_ids": [
+   366470
+  ],
+  "quality_able_craft_names": "热处理",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 186092,
+  "user_id": 186092,
+  "name": "13975077337",
+  "real_name": "13975077337",
+  "avatar": "https://api.kgd.ltd/weapp/images/default_avatar.png",
+  "mobile": "13975077337",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   366473
+  ],
+  "reportable_craft_names": "加工中心",
+  "quality_able_craft_ids": [],
+  "quality_able_craft_names": "",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 189728,
+  "user_id": 189728,
+  "name": "18267909485",
+  "real_name": "18267909485",
+  "avatar": null,
+  "mobile": "18267909485",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   450436
+  ],
+  "reportable_craft_names": "测试工序1",
+  "quality_able_craft_ids": [
+   450436
+  ],
+  "quality_able_craft_names": "测试工序1",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 196798,
+  "user_id": 196798,
+  "name": "李总",
+  "real_name": "李总",
+  "avatar": null,
+  "mobile": "19281287002",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   366480
+  ],
+  "reportable_craft_names": "机械加工",
+  "quality_able_craft_ids": [
+   366480
+  ],
+  "quality_able_craft_names": "机械加工",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 214890,
+  "user_id": 214890,
+  "name": "18611528888",
+  "real_name": "小张",
+  "avatar": null,
+  "mobile": "18611528888",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   366479,
+   366481
+  ],
+  "reportable_craft_names": "硬化处理,防腐处理",
+  "quality_able_craft_ids": [],
+  "quality_able_craft_names": "",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 216049,
+  "user_id": 216049,
+  "name": "13731858959",
+  "real_name": "南京乾瑞电力科技有限公司",
+  "avatar": "https://up.sh-t.com.cn/e_16807/2026-06-11/c3bc8d7f62cf087485da0a80127c7d7b.png",
+  "mobile": "13731858959",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   366478
+  ],
+  "reportable_craft_names": "密封件安装",
+  "quality_able_craft_ids": [
+   366478
+  ],
+  "quality_able_craft_names": "密封件安装",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 230551,
+  "user_id": 230551,
+  "name": "13823389559",
+  "real_name": "13823389559",
+  "avatar": null,
+  "mobile": "13823389559",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   366471,
+   366470
+  ],
+  "reportable_craft_names": "打磨,热处理",
+  "quality_able_craft_ids": [
+   366477
+  ],
+  "quality_able_craft_names": "精车",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 232148,
+  "user_id": 232148,
+  "name": "李志豪",
+  "real_name": "李志豪",
+  "avatar": null,
+  "mobile": "13416770408",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 370296,
+   "name": "演示账号"
+  },
+  "role_id": 370296,
+  "role_name": "演示账号",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   366473
+  ],
+  "reportable_craft_names": "加工中心",
+  "quality_able_craft_ids": [],
+  "quality_able_craft_names": "",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 233053,
+  "user_id": 233053,
+  "name": "丁",
+  "real_name": "丁",
+  "avatar": null,
+  "mobile": "13630066495",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 370296,
+   "name": "演示账号"
+  },
+  "role_id": 370296,
+  "role_name": "演示账号",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   450436
+  ],
+  "reportable_craft_names": "测试工序1",
+  "quality_able_craft_ids": [
+   450436
+  ],
+  "quality_able_craft_names": "测试工序1",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 233454,
+  "user_id": 233454,
+  "name": "13758896768",
+  "real_name": "13758896768",
+  "avatar": null,
+  "mobile": "13758896768",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 370296,
+   "name": "演示账号"
+  },
+  "role_id": 370296,
+  "role_name": "演示账号",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   366482
+  ],
+  "reportable_craft_names": "铸造/锻造",
+  "quality_able_craft_ids": [
+   366482
+  ],
+  "quality_able_craft_names": "铸造/锻造",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 233888,
+  "user_id": 233888,
+  "name": "极简",
+  "real_name": "极简",
+  "avatar": null,
+  "mobile": "6688123",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 380224,
+   "name": "极简"
+  },
+  "role_id": 380224,
+  "role_name": "极简",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   366481,
+   366479
+  ],
+  "reportable_craft_names": "防腐处理,硬化处理",
+  "quality_able_craft_ids": [],
+  "quality_able_craft_names": "",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ },
+ {
+  "id": 241370,
+  "user_id": 241370,
+  "name": "13859769905",
+  "real_name": "13859769905",
+  "avatar": null,
+  "mobile": "13859769905",
+  "department": null,
+  "department_id": null,
+  "department_path_names": "",
+  "role": {
+   "id": 162747,
+   "name": "系统管理员"
+  },
+  "role_id": 162747,
+  "role_name": "系统管理员",
+  "is_enable": false,
+  "reportable_craft_ids": [
+   366478
+  ],
+  "reportable_craft_names": "密封件安装",
+  "quality_able_craft_ids": [
+   366478
+  ],
+  "quality_able_craft_names": "密封件安装",
+  "enterprise_id": 16807,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:14",
+  "updated_at": "2026-01-04 15:19:14",
+  "_seed": 1
+ }
+]

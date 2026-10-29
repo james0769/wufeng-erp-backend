@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: wufeng-erp-backend
+    runtime: python
+    plan: free
+    rootDir: backend
+    buildCommand: pip install --no-cache-dir openpyxl
+    startCommand: python server.py $PORT
+    envVars:
+      - key: HOST
+        value: 0.0.0.0
+      - key: PYTHON_VERSION
+        value: 3.12.4

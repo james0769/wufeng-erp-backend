@@ -1,0 +1,61 @@
+[
+ {
+  "id": 70195,
+  "_seed": 1,
+  "enterprise_id": 16807,
+  "name": "按报工数量抽检",
+  "scheme_type": 1,
+  "num": "2.00000000",
+  "report_count": "10.00000000",
+  "produce_minutes": null,
+  "timed_inspection_time": [],
+  "is_self_build": 1,
+  "create_user_id": 63097,
+  "scheme_type_name": "按报工数抽检",
+  "created_at": "2026-05-27 10:41:52",
+  "updated_at": "2026-05-27 10:41:52",
+  "fieldValueList": [],
+  "del": 2
+ },
+ {
+  "id": 70196,
+  "_seed": 1,
+  "enterprise_id": 16807,
+  "name": "按生产时长抽检",
+  "scheme_type": 2,
+  "num": "5.00000000",
+  "report_count": null,
+  "produce_minutes": 60,
+  "timed_inspection_time": [],
+  "is_self_build": 1,
+  "create_user_id": 63097,
+  "scheme_type_name": "按生产时长抽检",
+  "created_at": "2026-04-16 23:14:11",
+  "updated_at": "2026-04-16 23:14:11",
+  "fieldValueList": [],
+  "del": 2
+ },
+ {
+  "id": 70197,
+  "_seed": 1,
+  "enterprise_id": 16807,
+  "name": "定时抽检",
+  "scheme_type": 3,
+  "num": "5.00000000",
+  "report_count": null,
+  "produce_minutes": null,
+  "timed_inspection_time": [
+   "10:00",
+   "11:00",
+   "15:00",
+   "16:00"
+  ],
+  "is_self_build": 1,
+  "create_user_id": 63097,
+  "scheme_type_name": "定时抽检",
+  "created_at": "2026-04-16 23:14:11",
+  "updated_at": "2026-04-16 23:14:11",
+  "fieldValueList": [],
+  "del": 2
+ }
+]

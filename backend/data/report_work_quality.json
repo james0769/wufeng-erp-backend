@@ -1,0 +1,568 @@
+[
+ {
+  "_seed": 1,
+  "type": 1,
+  "type_name": "生产报工",
+  "produce_bill_craft_id": 880000005,
+  "produce_bill_id": 8835784,
+  "report_user_id": 247888,
+  "report_user": {
+   "id": 247888,
+   "name": "测试账号",
+   "real_name": "测试账号",
+   "mobile": "15917664668",
+   "type": 1
+  },
+  "valid_num": "9.50000000",
+  "waste_num": "0.50000000",
+  "report_num": "10.00000000",
+  "report_waste_list": [
+   {
+    "waste_item": {
+     "id": 31636,
+     "code": "松动/异响",
+     "name": "松动/异响"
+    },
+    "num": "0.50000000"
+   }
+  ],
+  "waste_item_sum": 1,
+  "working_minutes": 0,
+  "start_time": "2026-10-21 08:00:00",
+  "end_time": "2026-10-21 17:00:00",
+  "report_time": "2026-10-21 17:30:00",
+  "price_mode": 1,
+  "craft_unit_money": "2.30",
+  "valid_money": "21",
+  "quality_status": 3,
+  "rework_num": "0.00000000",
+  "scrap_num": "0.00000000",
+  "quality_remark": null,
+  "last_quality_user_id": null,
+  "last_quality_user": null,
+  "last_quality_time": null,
+  "need_rework": 2,
+  "settle_status": 1,
+  "settle_status_name": "未结算",
+  "remark": null,
+  "created_at": "2026-10-21 17:30:00",
+  "updated_at": "2026-10-21 17:30:00",
+  "id": 777000010,
+  "del": 2
+ },
+ {
+  "_seed": 1,
+  "type": 1,
+  "type_name": "生产报工",
+  "produce_bill_craft_id": 880000001,
+  "produce_bill_id": 8835784,
+  "report_user_id": 245758,
+  "report_user": {
+   "id": 245758,
+   "name": "董工",
+   "real_name": "董工",
+   "mobile": "17763079758",
+   "type": 1
+  },
+  "valid_num": "9.00000000",
+  "waste_num": "1.00000000",
+  "report_num": "10.00000000",
+  "report_waste_list": [
+   {
+    "waste_item": {
+     "id": 31636,
+     "code": "松动/异响",
+     "name": "松动/异响"
+    },
+    "num": "1.00000000"
+   }
+  ],
+  "waste_item_sum": 1,
+  "working_minutes": 0,
+  "start_time": "2026-10-20 08:00:00",
+  "end_time": "2026-10-20 17:00:00",
+  "report_time": "2026-10-20 17:30:00",
+  "price_mode": 1,
+  "craft_unit_money": "0.00",
+  "valid_money": "0",
+  "quality_status": 3,
+  "rework_num": "0.00000000",
+  "scrap_num": "0.00000000",
+  "quality_remark": null,
+  "last_quality_user_id": null,
+  "last_quality_user": null,
+  "last_quality_time": null,
+  "need_rework": 2,
+  "settle_status": 1,
+  "settle_status_name": "未结算",
+  "remark": null,
+  "created_at": "2026-10-20 17:30:00",
+  "updated_at": "2026-10-20 17:30:00",
+  "id": 777000009,
+  "del": 2
+ },
+ {
+  "_seed": 1,
+  "type": 1,
+  "type_name": "生产报工",
+  "produce_bill_craft_id": 880000041,
+  "produce_bill_id": 8835780,
+  "report_user_id": 245355,
+  "report_user": {
+   "id": 245355,
+   "name": "陈",
+   "real_name": "陈",
+   "mobile": "15606326957",
+   "type": 1
+  },
+  "valid_num": "9.50000000",
+  "waste_num": "0.50000000",
+  "report_num": "10.00000000",
+  "report_waste_list": [
+   {
+    "waste_item": {
+     "id": 31636,
+     "code": "松动/异响",
+     "name": "松动/异响"
+    },
+    "num": "0.50000000"
+   }
+  ],
+  "waste_item_sum": 1,
+  "working_minutes": 0,
+  "start_time": "2026-10-27 08:00:00",
+  "end_time": "2026-10-27 17:00:00",
+  "report_time": "2026-10-27 17:30:00",
+  "price_mode": 1,
+  "craft_unit_money": "0.80",
+  "valid_money": "7",
+  "quality_status": 1,
+  "rework_num": "0.00000000",
+  "scrap_num": "0.00000000",
+  "quality_remark": null,
+  "last_quality_user_id": null,
+  "last_quality_user": null,
+  "last_quality_time": null,
+  "need_rework": 2,
+  "settle_status": 1,
+  "settle_status_name": "未结算",
+  "remark": null,
+  "created_at": "2026-10-27 17:30:00",
+  "updated_at": "2026-10-27 17:30:00",
+  "id": 777000008,
+  "del": 2
+ },
+ {
+  "_seed": 1,
+  "type": 1,
+  "type_name": "生产报工",
+  "produce_bill_craft_id": 880000031,
+  "produce_bill_id": 8835781,
+  "report_user_id": 236156,
+  "report_user": {
+   "id": 236156,
+   "name": "1122",
+   "real_name": "成",
+   "mobile": "15818665872",
+   "type": 1
+  },
+  "valid_num": "9.00000000",
+  "waste_num": "1.00000000",
+  "report_num": "10.00000000",
+  "report_waste_list": [
+   {
+    "waste_item": {
+     "id": 31636,
+     "code": "松动/异响",
+     "name": "松动/异响"
+    },
+    "num": "1.00000000"
+   }
+  ],
+  "waste_item_sum": 1,
+  "working_minutes": 0,
+  "start_time": "2026-10-26 08:00:00",
+  "end_time": "2026-10-26 17:00:00",
+  "report_time": "2026-10-26 17:30:00",
+  "price_mode": 1,
+  "craft_unit_money": "2.30",
+  "valid_money": "20",
+  "quality_status": 1,
+  "rework_num": "0.00000000",
+  "scrap_num": "0.00000000",
+  "quality_remark": null,
+  "last_quality_user_id": null,
+  "last_quality_user": null,
+  "last_quality_time": null,
+  "need_rework": 2,
+  "settle_status": 1,
+  "settle_status_name": "未结算",
+  "remark": null,
+  "created_at": "2026-10-26 17:30:00",
+  "updated_at": "2026-10-26 17:30:00",
+  "id": 777000007,
+  "del": 2
+ },
+ {
+  "_seed": 1,
+  "type": 1,
+  "type_name": "生产报工",
+  "produce_bill_craft_id": 880000011,
+  "produce_bill_id": 8835783,
+  "report_user_id": 230979,
+  "report_user": {
+   "id": 230979,
+   "name": "洪强",
+   "real_name": "洪强",
+   "mobile": "18823316691",
+   "type": 1
+  },
+  "valid_num": "9.50000000",
+  "waste_num": "0.50000000",
+  "report_num": "10.00000000",
+  "report_waste_list": [
+   {
+    "waste_item": {
+     "id": 31636,
+     "code": "松动/异响",
+     "name": "松动/异响"
+    },
+    "num": "0.50000000"
+   }
+  ],
+  "waste_item_sum": 1,
+  "working_minutes": 0,
+  "start_time": "2026-10-25 08:00:00",
+  "end_time": "2026-10-25 17:00:00",
+  "report_time": "2026-10-25 17:30:00",
+  "price_mode": 1,
+  "craft_unit_money": "3.50",
+  "valid_money": "33",
+  "quality_status": 1,
+  "rework_num": "0.00000000",
+  "scrap_num": "0.00000000",
+  "quality_remark": null,
+  "last_quality_user_id": null,
+  "last_quality_user": null,
+  "last_quality_time": null,
+  "need_rework": 2,
+  "settle_status": 1,
+  "settle_status_name": "未结算",
+  "remark": null,
+  "created_at": "2026-10-25 17:30:00",
+  "updated_at": "2026-10-25 17:30:00",
+  "id": 777000006,
+  "del": 2
+ },
+ {
+  "_seed": 1,
+  "type": 1,
+  "type_name": "生产报工",
+  "produce_bill_craft_id": 880000002,
+  "produce_bill_id": 8835784,
+  "report_user_id": 230342,
+  "report_user": {
+   "id": 230342,
+   "name": "小城",
+   "real_name": "小城",
+   "mobile": "18664916824",
+   "type": 1
+  },
+  "valid_num": "9.00000000",
+  "waste_num": "1.00000000",
+  "report_num": "10.00000000",
+  "report_waste_list": [
+   {
+    "waste_item": {
+     "id": 31636,
+     "code": "松动/异响",
+     "name": "松动/异响"
+    },
+    "num": "1.00000000"
+   }
+  ],
+  "waste_item_sum": 1,
+  "working_minutes": 0,
+  "start_time": "2026-10-24 08:00:00",
+  "end_time": "2026-10-24 17:00:00",
+  "report_time": "2026-10-24 17:30:00",
+  "price_mode": 1,
+  "craft_unit_money": "0.00",
+  "valid_money": "0",
+  "quality_status": 1,
+  "rework_num": "0.00000000",
+  "scrap_num": "0.00000000",
+  "quality_remark": null,
+  "last_quality_user_id": null,
+  "last_quality_user": null,
+  "last_quality_time": null,
+  "need_rework": 2,
+  "settle_status": 1,
+  "settle_status_name": "未结算",
+  "remark": null,
+  "created_at": "2026-10-24 17:30:00",
+  "updated_at": "2026-10-24 17:30:00",
+  "id": 777000005,
+  "del": 2
+ },
+ {
+  "_seed": 1,
+  "type": 1,
+  "type_name": "生产报工",
+  "produce_bill_craft_id": 880000156,
+  "produce_bill_id": 8749075,
+  "report_user_id": 228936,
+  "report_user": {
+   "id": 228936,
+   "name": "6688",
+   "real_name": "测试",
+   "mobile": "13119580623",
+   "type": 1
+  },
+  "valid_num": "95.00000000",
+  "waste_num": "5.00000000",
+  "report_num": "100.00000000",
+  "report_waste_list": [
+   {
+    "waste_item": {
+     "id": 31636,
+     "code": "松动/异响",
+     "name": "松动/异响"
+    },
+    "num": "2.50000000"
+   },
+   {
+    "waste_item": {
+     "id": 31635,
+     "code": "变形/开裂",
+     "name": "变形/开裂"
+    },
+    "num": "2.50000000"
+   }
+  ],
+  "waste_item_sum": 2,
+  "working_minutes": 0,
+  "start_time": "2026-10-23 08:00:00",
+  "end_time": "2026-10-23 17:00:00",
+  "report_time": "2026-10-23 17:30:00",
+  "price_mode": 1,
+  "craft_unit_money": "2.30",
+  "valid_money": "218",
+  "quality_status": 2,
+  "rework_num": "2.00000000",
+  "scrap_num": "1.00000000",
+  "quality_remark": "样例质检备注3",
+  "last_quality_user_id": 230342,
+  "last_quality_user": {
+   "id": 230342,
+   "name": "小城",
+   "real_name": "小城",
+   "mobile": "18664916824",
+   "type": 1
+  },
+  "last_quality_time": "2026-10-23 15:30:00",
+  "need_rework": 1,
+  "settle_status": 1,
+  "settle_status_name": "未结算",
+  "remark": null,
+  "created_at": "2026-10-23 17:30:00",
+  "updated_at": "2026-10-23 15:30:00",
+  "id": 777000004,
+  "del": 2
+ },
+ {
+  "_seed": 1,
+  "type": 1,
+  "type_name": "生产报工",
+  "produce_bill_craft_id": 880000154,
+  "produce_bill_id": 8749075,
+  "report_user_id": 216100,
+  "report_user": {
+   "id": 216100,
+   "name": "13480234710",
+   "real_name": "13480234710",
+   "mobile": "13480234710",
+   "type": 1
+  },
+  "valid_num": "90.00000000",
+  "waste_num": "10.00000000",
+  "report_num": "100.00000000",
+  "report_waste_list": [
+   {
+    "waste_item": {
+     "id": 31636,
+     "code": "松动/异响",
+     "name": "松动/异响"
+    },
+    "num": "5.00000000"
+   },
+   {
+    "waste_item": {
+     "id": 31635,
+     "code": "变形/开裂",
+     "name": "变形/开裂"
+    },
+    "num": "5.00000000"
+   }
+  ],
+  "waste_item_sum": 2,
+  "working_minutes": 0,
+  "start_time": "2026-10-22 08:00:00",
+  "end_time": "2026-10-22 17:00:00",
+  "report_time": "2026-10-22 17:30:00",
+  "price_mode": 1,
+  "craft_unit_money": "2.30",
+  "valid_money": "207",
+  "quality_status": 2,
+  "rework_num": "0.00000000",
+  "scrap_num": "0.00000000",
+  "quality_remark": "样例质检备注2",
+  "last_quality_user_id": 228936,
+  "last_quality_user": {
+   "id": 228936,
+   "name": "6688",
+   "real_name": "测试",
+   "mobile": "13119580623",
+   "type": 1
+  },
+  "last_quality_time": "2026-10-22 15:30:00",
+  "need_rework": 2,
+  "settle_status": 1,
+  "settle_status_name": "未结算",
+  "remark": null,
+  "created_at": "2026-10-22 17:30:00",
+  "updated_at": "2026-10-22 15:30:00",
+  "id": 777000003,
+  "del": 2
+ },
+ {
+  "_seed": 1,
+  "type": 1,
+  "type_name": "生产报工",
+  "produce_bill_craft_id": 880000153,
+  "produce_bill_id": 8749075,
+  "report_user_id": 157707,
+  "report_user": {
+   "id": 157707,
+   "name": "库管",
+   "real_name": "库管",
+   "mobile": "17863770317",
+   "type": 1
+  },
+  "valid_num": "95.00000000",
+  "waste_num": "5.00000000",
+  "report_num": "100.00000000",
+  "report_waste_list": [
+   {
+    "waste_item": {
+     "id": 31636,
+     "code": "松动/异响",
+     "name": "松动/异响"
+    },
+    "num": "2.50000000"
+   },
+   {
+    "waste_item": {
+     "id": 31635,
+     "code": "变形/开裂",
+     "name": "变形/开裂"
+    },
+    "num": "2.50000000"
+   }
+  ],
+  "waste_item_sum": 2,
+  "working_minutes": 0,
+  "start_time": "2026-10-21 08:00:00",
+  "end_time": "2026-10-21 17:00:00",
+  "report_time": "2026-10-21 17:30:00",
+  "price_mode": 1,
+  "craft_unit_money": "2.30",
+  "valid_money": "218",
+  "quality_status": 2,
+  "rework_num": "0.00000000",
+  "scrap_num": "0.00000000",
+  "quality_remark": "样例质检备注1",
+  "last_quality_user_id": 216100,
+  "last_quality_user": {
+   "id": 216100,
+   "name": "13480234710",
+   "real_name": "13480234710",
+   "mobile": "13480234710",
+   "type": 1
+  },
+  "last_quality_time": "2026-10-21 15:30:00",
+  "need_rework": 2,
+  "settle_status": 1,
+  "settle_status_name": "未结算",
+  "remark": null,
+  "created_at": "2026-10-21 17:30:00",
+  "updated_at": "2026-10-21 15:30:00",
+  "id": 777000002,
+  "del": 2
+ },
+ {
+  "_seed": 1,
+  "type": 1,
+  "type_name": "生产报工",
+  "produce_bill_craft_id": 880000152,
+  "produce_bill_id": 8749075,
+  "report_user_id": 63097,
+  "report_user": {
+   "id": 63097,
+   "name": "小王",
+   "real_name": "小王",
+   "mobile": "15606326956",
+   "type": 1
+  },
+  "valid_num": "90.00000000",
+  "waste_num": "10.00000000",
+  "report_num": "100.00000000",
+  "report_waste_list": [
+   {
+    "waste_item": {
+     "id": 31636,
+     "code": "松动/异响",
+     "name": "松动/异响"
+    },
+    "num": "5.00000000"
+   },
+   {
+    "waste_item": {
+     "id": 31635,
+     "code": "变形/开裂",
+     "name": "变形/开裂"
+    },
+    "num": "5.00000000"
+   }
+  ],
+  "waste_item_sum": 2,
+  "working_minutes": 0,
+  "start_time": "2026-10-20 08:00:00",
+  "end_time": "2026-10-20 17:00:00",
+  "report_time": "2026-10-20 17:30:00",
+  "price_mode": 1,
+  "craft_unit_money": "2.30",
+  "valid_money": "207",
+  "quality_status": 2,
+  "rework_num": "0.00000000",
+  "scrap_num": "0.00000000",
+  "quality_remark": "样例质检备注0",
+  "last_quality_user_id": 157707,
+  "last_quality_user": {
+   "id": 157707,
+   "name": "库管",
+   "real_name": "库管",
+   "mobile": "17863770317",
+   "type": 1
+  },
+  "last_quality_time": "2026-10-20 15:30:00",
+  "need_rework": 2,
+  "settle_status": 1,
+  "settle_status_name": "未结算",
+  "remark": null,
+  "created_at": "2026-10-20 17:30:00",
+  "updated_at": "2026-10-20 15:30:00",
+  "id": 777000001,
+  "del": 2
+ }
+]

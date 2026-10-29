@@ -1,0 +1,134 @@
+[
+ {
+  "id": 6365,
+  "_seed": 1,
+  "enterprise_id": 16807,
+  "title": "光滑度",
+  "remark": null,
+  "create_user_id": 63097,
+  "del": 2,
+  "created_at": "2026-07-02 09:59:49",
+  "updated_at": "2026-07-02 09:59:49",
+  "content_items": [
+   {
+    "name": "guanghuadu",
+    "label": "表面光滑度",
+    "type": "text_ipt",
+    "must_fill": 2,
+    "describe": "目视及手感检查加工面光滑度，无毛刺划痕。",
+    "order_number": 1
+   }
+  ]
+ },
+ {
+  "id": 3755,
+  "_seed": 1,
+  "enterprise_id": 16807,
+  "title": "精度验证",
+  "remark": "定位精度：使用激光干涉仪或高精度光栅尺，测量实际位移与标称值的偏差（如±0.005mm/m）。\n重复定位精度：多次往返同一位置，用千分表记录偏差（典型值≤±0.003mm）。\n平行度/直线度：用百分表检测移动平台在全程内的横向摆动（如≤0.01mm/100mm）。",
+  "create_user_id": 63097,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:31",
+  "updated_at": "2026-01-04 15:19:31",
+  "content_items": [
+   {
+    "name": "dingweijingdu",
+    "label": "定位精度",
+    "type": "text_ipt",
+    "must_fill": 2,
+    "describe": "使用激光干涉仪或高精度光栅尺，测量实际位移与标称值的偏差（如±0.005mm/m）。",
+    "order_number": 1
+   },
+   {
+    "name": "zfdwjd",
+    "label": "重复定位精度",
+    "type": "text_ipt",
+    "must_fill": 2,
+    "describe": "多次往返同一位置，用千分表记录偏差（典型值≤±0.003mm）。",
+    "order_number": 2
+   },
+   {
+    "name": "pxd_zxd",
+    "label": "平行度-直线度",
+    "type": "text_ipt",
+    "must_fill": 2,
+    "describe": "用百分表检测移动平台在全程内的横向摆动（如≤0.01mm/100mm）。",
+    "order_number": 3
+   }
+  ]
+ },
+ {
+  "id": 3754,
+  "_seed": 1,
+  "enterprise_id": 16807,
+  "title": "运动性能测试",
+  "remark": "交叉滚柱引导式手动位移台的验收需从机械性能、精度、功能、材质及文档等方面进行全面检查，确保其符合技术协议或行业标准",
+  "create_user_id": 63097,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:31",
+  "updated_at": "2026-01-04 15:19:31",
+  "content_items": [
+   {
+    "name": "jixie_xingneng",
+    "label": "机械性能",
+    "type": "text_ipt",
+    "must_fill": 2,
+    "describe": "全行程手动往复运动，检查滑移阻力是否均匀、有无爬行异响。",
+    "order_number": 1
+   },
+   {
+    "name": "gongneng_jiancha",
+    "label": "功能检查",
+    "type": "text_ipt",
+    "must_fill": 2,
+    "describe": "检查限位、锁紧、刻度等功能部件是否有效。",
+    "order_number": 2
+   },
+   {
+    "name": "caizhi_wendang",
+    "label": "材质及文档",
+    "type": "text_ipt",
+    "must_fill": 2,
+    "describe": "核对材质证明与出厂文档（合格证、检验报告）是否齐全。",
+    "order_number": 3
+   }
+  ]
+ },
+ {
+  "id": 3753,
+  "_seed": 1,
+  "enterprise_id": 16807,
+  "title": "外观与结构检查",
+  "remark": null,
+  "create_user_id": 63097,
+  "del": 2,
+  "created_at": "2026-01-04 15:19:30",
+  "updated_at": "2026-01-04 15:19:30",
+  "content_items": [
+   {
+    "name": "waiguan",
+    "label": "外观",
+    "type": "text_ipt",
+    "must_fill": 2,
+    "describe": "表面处理（阳极氧化/发黑）均匀，无锈蚀、磕碰伤。",
+    "order_number": 1
+   },
+   {
+    "name": "jiegou_chicun",
+    "label": "结构尺寸",
+    "type": "text_ipt",
+    "must_fill": 2,
+    "describe": "按图纸核对关键尺寸与形位公差。",
+    "order_number": 2
+   },
+   {
+    "name": "biaoji",
+    "label": "标识铭牌",
+    "type": "text_ipt",
+    "must_fill": 2,
+    "describe": "铭牌、编号刻印清晰并与单据一致。",
+    "order_number": 3
+   }
+  ]
+ }
+]

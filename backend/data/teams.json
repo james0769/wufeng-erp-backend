@@ -1,0 +1,56 @@
+[
+ {
+  "id": 18235,
+  "name": "售后维修团队",
+  "del": false,
+  "parent_id": null,
+  "name_path": "售后维修团队",
+  "id_path": "18235",
+  "level": 1
+ },
+ {
+  "id": 41742,
+  "name": "维修保养部",
+  "del": false,
+  "parent_id": null,
+  "name_path": "维修保养部",
+  "id_path": "41742",
+  "level": 1
+ },
+ {
+  "id": 41743,
+  "name": "客服部",
+  "del": false,
+  "parent_id": null,
+  "name_path": "客服部",
+  "id_path": "41743",
+  "level": 1
+ },
+ {
+  "id": 41744,
+  "name": "售后维修部",
+  "del": false,
+  "parent_id": null,
+  "name_path": "售后维修部",
+  "id_path": "41744",
+  "level": 1
+ },
+ {
+  "id": 41745,
+  "name": "工单回访部",
+  "del": false,
+  "parent_id": null,
+  "name_path": "工单回访部",
+  "id_path": "41745",
+  "level": 1
+ },
+ {
+  "id": 41746,
+  "name": "工单审核部",
+  "del": false,
+  "parent_id": null,
+  "name_path": "工单审核部",
+  "id_path": "41746",
+  "level": 1
+ }
+]

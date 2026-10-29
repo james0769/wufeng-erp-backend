@@ -1,0 +1,57 @@
+[
+ {
+  "id": 823483,
+  "name": "成品",
+  "parent_id": null
+ },
+ {
+  "id": 823481,
+  "name": "半成品",
+  "parent_id": null
+ },
+ {
+  "id": 1188772,
+  "name": "原料",
+  "parent_id": null
+ },
+ {
+  "id": 1286830,
+  "name": "针板",
+  "parent_id": null
+ },
+ {
+  "id": 1257134,
+  "name": "模具",
+  "parent_id": null
+ },
+ {
+  "id": 1257138,
+  "name": "治具",
+  "parent_id": null
+ },
+ {
+  "id": 823482,
+  "name": "包材配件",
+  "parent_id": null
+ },
+ {
+  "id": 823485,
+  "name": "普元",
+  "parent_id": null
+ },
+ {
+  "id": 823486,
+  "name": "合金钢",
+  "parent_id": null
+ },
+ {
+  "id": 823488,
+  "name": "电脑",
+  "parent_id": null
+ },
+ {
+  "id": 823484,
+  "name": "毛坯",
+  "parent_id": null
+ }
+]

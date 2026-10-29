@@ -1,0 +1,28 @@
+[
+ {
+  "id": 300001,
+  "enterprise_id": 16807,
+  "sms_package_id": 3,
+  "subject": "短信2000条",
+  "money": "249.00",
+  "num": 2000,
+  "del": 2,
+  "created_at": "2026-06-17 15:00:00",
+  "updated_at": "2026-06-17 15:00:00",
+  "fieldValueList": [],
+  "_seed": 1
+ },
+ {
+  "id": 300002,
+  "enterprise_id": 16807,
+  "sms_package_id": 2,
+  "subject": "短信5000条",
+  "money": "399.00",
+  "num": 5000,
+  "del": 2,
+  "created_at": "2026-09-01 10:20:30",
+  "updated_at": "2026-09-01 10:20:30",
+  "fieldValueList": [],
+  "_seed": 1
+ }
+]

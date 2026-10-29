@@ -1,0 +1,40 @@
+[
+ {
+  "id": 26950,
+  "name": "精工仓储",
+  "qr_code_url": null
+ },
+ {
+  "id": 27210,
+  "name": "成品库",
+  "remark": null,
+  "province_code": 110000,
+  "city_code": 110101,
+  "area_code": null,
+  "address": "1",
+  "location": "116.42930599799,39.891514822539",
+  "del": 2,
+  "enterprise_id": 16807,
+  "created_at": "2026-01-07 13:40:28",
+  "updated_at": "2026-01-07 13:40:28",
+  "is_enable": 1,
+  "resp_user_ids": "63097",
+  "full_address": "北京市 东城区 1",
+  "qr_code_url": "https://single.kgd.ltd/#/w?qr_id=27210"
+ },
+ {
+  "id": 27211,
+  "name": "原料库",
+  "qr_code_url": null
+ },
+ {
+  "id": 27212,
+  "name": "尾料库",
+  "qr_code_url": null
+ },
+ {
+  "id": 36413,
+  "name": "506",
+  "qr_code_url": null
+ }
+]
